@@ -1,1 +1,753 @@
-{"generated_at":"2026-01-01T00:00:00+00:00","items":[]}
+{
+ "generated_at": "2026-11-23T23:58:27.424986+00:00",
+ "indicators": {
+  "selic": {
+   "v": 13.75,
+   "d": "09/12/2026"
+  },
+  "cdi": {
+   "v": 13.65,
+   "d": "19/11/2026"
+  },
+  "ipca12": {
+   "v": 4.63,
+   "d": "01/10/2026"
+  },
+  "dolar": {
+   "v": 5.9708,
+   "d": "23/11/2026"
+  }
+ },
+ "items": [
+  {
+   "title": "Ibovespa cai com Petrobras e dólar fecha estável em meio a temor com fiscal",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrV3F5S1pxQ3piaDVlRFFSTzJORk5GdENLS2hzRlhsVmhuRXVnLTgybDRRU2RDbDhrSG1JSkhsa1NkYmJpT3FrdmtMNlo0MEtRVGpCN2J0QmlUeGM1bDUtSGpsdWVoclNkOEZLNklBRk9hR2FQT2Jz?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-23T23:21:37+00:00",
+   "image": "",
+   "sources": 3,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira",
+   "link": "https://www.infomoney.com.br/politica/camara-aprova-urgencia-para-deputados-votarem-ajuste-fiscal-ainda-nesta-segunda-feira/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:47:14+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/img20260527230202257MED.jpg?fit=300%2C185&quality=70&strip=all",
+   "sources": 2,
+   "category": "Governo e fiscal",
+   "assets": [
+    "ipca"
+   ]
+  },
+  {
+   "title": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlRDWllvY2ZxbExiYmhHTm0xYzFyZF84SmJFMjdsUVFyV0s3dmM0TkdQeVJfSGMxYVpONFNsNWkyUEZlU1puU1RPdlhyNnNfMGJYOFgwdVlEVjlrcXE5V3ZWcXBpemwwVzBaeVZ0djZ6V3BhMk9tSTR6dnhxUDJEM25zQjUwQ3BFNDRqa1ZMajlHb3RNdDczNmMyeTN6cUdDQ2Q2MWVrOTVMck9CLVJMQk5PbEdWR01sbGlLZw?oc=5",
+   "source": "DComercio",
+   "published": "2026-11-23T22:00:00+00:00",
+   "image": "",
+   "sources": 3,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Aceno do governo ao mercado tem pouco efeito, e Ibovespa cai com quadro fiscal",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0U3bXdvT2gxUHdySjhqSXZYWlJRUm9LNDd1eVBZaXRteDV3cW5IcmtvMmNBZ1pTdU1rQTl3MGlFb1k3eXVzNWpERzlLZjFpT1J4a3JLaUpnazM1SkUwZ3lLRG5HQ3IxRzY4WnVUQTBpQ0NsWDNkZjhpSzFWb2F1YXEtaFJ5Y1cyeWk2al8ydC1nekxjeVNJa2lYYjNRQ05nb2ZIRW1paG9sYTlLaWlJ0gGvAUFVX3lxTFBvRTdtd29PaDFQd3JKOGpJdlhaUlFSb0s0N3V5UFlpdG14NXdxbkhya28yY0FnWlN1TWtBOXcwaUVvWTd5dXM1akRHOUtmMWlPUnhrcktpSmdrMzVKRTBneUtEbkdDcjFHNjhadVRBMGlDQ2xYM2RmOGlLMVZvYXVhcS1oUnljVzJ5aTZqXzJ0LWd6TGN5U0lraVhiM1FDTmdvZkhFbWlob2xhOUtpaUk?oc=5",
+   "source": "Folha PE",
+   "published": "2026-11-23T21:57:07+00:00",
+   "image": "",
+   "sources": 2,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Ibovespa fecha em queda 0,95% e renova mínima de janeiro",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3o4REpVUm5tUkhQRHYyQ2tWaHhFeUd1WmFHUElnRUlWS0g3N2Izajl1VzJ5Yy1vb1NkbXRSOEtSei1UZ002cGhaemI5SmxKdnQ3VHdzcjE4WmMwb2ZaNk5MTnFkWjNHTHNhY29HVVdKeXMyS1M4d1p2WEo5a1hndmNfUmM0VjNWMy1vSnFUWDJVcmtsXzdWQllxb2dVQ3dx?oc=5",
+   "source": "SBT News",
+   "published": "2026-11-23T21:53:05+00:00",
+   "image": "",
+   "sources": 3,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa cai 0,95% e dólar toca R$ 6 pela primeira vez desde abril de 2025",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRoT1JOeUVMZDlFNDBtYmx5RTRsOTl0OUtIYnFZeDlDLVFKV0sxaFBOSHRpYXB4Ylp4cGd3MnFxSXJKQm1mWC1NRFNEc3NBaEItTTFPSnljdzZCTUhfQURXY0FHV1FGNkYtWnQ0X0UxeXB0Z3NqVTJXMmIyTGFxT0QtbVlHTUhuN2thQ2IyTEtTRzhwclJxbUhGRTBRX0lDTlhBSVcwUnVXeWxUQzFoX3hEcnlfVEM5LWwtblpB0gG-AUFVX3lxTE9JNGhPUk55RUxkOUU0MG1ibHlFNGw5OXQ5S0hicVl4OUMtUUpXSzFoUE5IdGlhcHhiWnhwZ3cycXFJckpCbWZYLU1EU0Rzc0FoQi1NMU9KeWN3NkJNSF9BRFdjQUdXUUY2Ri1adDRfRTF5cHRnc2pVMlcyYjJMYXFPRC1tWUdNSG43a2FDYjJMS1NHOHByUnFtSEZFMFFfSUNOWEFJVzBSdVd5bFRDMWhfeERyeV9UQzktbC1uWkE?oc=5",
+   "source": "Investidor10",
+   "published": "2026-11-23T21:51:34+00:00",
+   "image": "",
+   "sources": 4,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Após Superar R$ 6, Dólar Perde Força e Fecha Estável com Especulações sobre Nomes para Área Econômica",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVVVBMUswaVQxZ3Z6RU9NVDVkOU1RS2ktSHY5OC02T2gtUDVCTjRaaWJQV0stMDVmaTU4Y0cxSWhMUXhrcmlpZFB6ZFQ5VGU1SkRKejZzaWNNbmtvVml5Y0FrTTdCalhXM0stM1d2QWdNSnE1UjBadV9XeXJ6R2thbjJBRm1ZcUxrMzFQYm9vMGxPeFhEdks2YkhtNW1KdE1Kd0dZdlU3OHUwc3kyQU1neFM1T1pCSzRZOTEwTXFZa0dFMjJjOEJEaTlCbDlXM1d4b0VGZHJDcXVTMHM?oc=5",
+   "source": "Forbes Brasil",
+   "published": "2026-11-23T21:16:35+00:00",
+   "image": "",
+   "sources": 2,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Mercado eleva projeção do dólar para R$ 5,55 no fim de 2026 e reduz estimativa de crescimento",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLXpzOF9mcm84S2VnaW9mRnZybXNCNjdxWkV3MkxTRUhBcEk1Sk5reDk1WmNfSk5ncDY4WjkwMUl5a0hLc3Vfdkt6YVJFZ0lSNkxseEdVaVhVNVJJRkdUVEZST1ZJQ1NkYU51Nzg4ckY2RV9JdDc3cW5pb0o4UVJrTjBkdVFwNXBBbXY2QVRZM0ViU0kxZ3JZd0d0eEhPclpidC02cXZGMlhGaXNiUWNGbDFXV3oxVzlEQ2I1cXhPWXk4MWg4VEhraHBGdU82MDJYbURwQ0lOd25ZTnc?oc=5",
+   "source": "cachorraotv.com.br",
+   "published": "2026-11-23T20:45:34+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 3,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Após bater R$ 6, dólar fecha em leve queda com indicações ao BC no radar",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUh2bFpMRGtJT0lKRUlXM2R5Wjc1R08xZ2V0NUVrNWFQNzZXTExHUHNBQmRIMUZzYnVMWExGdkE2ODJJMUlSMmcySEMzYVE5YmlSR1ZUMmV4TlBsMHB2cnZJalBBSnc2TmRGemNKWk1fOU5walFNRTFsNHo0TjgzWDJoY3lsakt6dUZvMlUwZGZEb0FTd1NlSVV3Y25STE9FVmdtMGdqU1RaT0NfVVpUc0F3?oc=5",
+   "source": "Gazeta do Povo",
+   "published": "2026-11-23T20:20:00+00:00",
+   "image": "",
+   "sources": 2,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ao vivo: Reinaldo analisa alta do dólar em meio à votação do ajuste fiscal",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVdSTjhsdGVCTUUxTjRTWlpkcVRMNmh0bHJyU2JEWDhRdTdGZ1Y4UzFuRzY4RklrOVRYSUtLcWQwWUx5UmVNSE9PcVlFcHR3SWZJaU9wS251TlRnV1RKZXdWSXJvUGZMQ3BrQVFKdzZLU1ZnUFdwb1Q1QWdQdU1QSERyU251cFB6b0VRRG9LOTFKR05UU2tleVYzTW9YNWFXUGF1VDc2TWE0Zw?oc=5",
+   "source": "Band",
+   "published": "2026-11-23T19:41:21+00:00",
+   "image": "",
+   "sources": 2,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Após bater R$ 6, dólar cai e fecha a R$ 5,92, com mercado de olho no pacote fiscal; Ibovespa cai",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T12:00:20+00:00",
+   "image": "https://s2-g1.glbimg.com/CLpORDX-Ika5t_WGmtkE9z_hf2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/T/8/6BPYVIQciRgUNcEDR84Q/globo-canal-4-1-4-frame-243449.jpeg",
+   "sources": 2,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Boletim Focus: mercado eleva projeções para inflação, juros e dólar em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMU1QcHdmcG93WHRxRkhvdTFTX3UyQnZvWkdqcVJycU41OXgzUTB1MFo5cHc0QTJmNkNzTWtSVmUzTkxUY1RoRUVMU1BDa05aMzNUMVJtZ3I4bjREaFFuSXJNSDJEaXNfYjNmUXVIbmthVVRXVUY3d2pmbjYtN1BxbWwxbENYX1ktZGt6anota200QXF2NXpCeWo0U3VnaFFGM3lpd0VianRYSVNFM3JSd0FOcl9XTmRqVi1IQkpqaXQxQ1BEdmswRlY1TQ?oc=5",
+   "source": "UOL Economia",
+   "published": "2026-11-23T11:51:51+00:00",
+   "image": "",
+   "sources": 3,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "selic",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Jornada 5x2: veja como ficam regras de salário, folgas e horas extras",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/jornada-5x2-veja-como-ficam-regras-de-salario-folgas-e-horas-extras",
+   "source": "Agência Brasil",
+   "published": "2026-11-23T23:40:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Dólar fecha a R$ 5,92 após passar de R$ 6; Ibovespa cai 0,95%",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2psM2NhNmRTNE5RQm5kOVB4cnlQUmpoYkpkX2VPTFVDYmxJM3NmdXQ5cEhSNkpoSV80Yk1QclR3dWFuVm5CODdfc0VHZGEzTGVTVW8zQ3pWZFdPaS1HdmgzUUpDX2JhMjRnUHQ0N00xbm9YbTB6TlZURWY3bUk4OTluNlBfWWZDMm5IUVc0OWM2TkF2SWFCT01jaGl4MlNjQ2c3S3JCSnVwUdIBqgFBVV95cUxNSWhJc3NJMWxUZWxxWVgydGd6bHEwMnQ2LW9teXVIVkcxeEtqUXhsOUVGSk9oaVM5YXF5Q3RiV1JWS2FmNHlVaE1UUVdVSEdYMEN6b281S29rcWQ5MmMyRm9aLV9ZS1M2eHNucDJIa3lOQ0N4anJKWWh4eUM3ai1uVkxQYmVKX0JsNXN0eTRUMEt4dnRwd3BMaHdOcDVrdHZDSThCOHpETTA1UQ?oc=5",
+   "source": "Campo Grande News",
+   "published": "2026-11-23T23:30:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Meta suspende ações sem direito a voto com Zuckerberg diante de disputa judicial",
+   "link": "https://www.infomoney.com.br/mercados/meta-suspende-acoes-sem-direito-a-voto-com-zuckerberg-diante-de-disputa-judicial/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T23:10:58+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-20T172543Z_1434439757_RC2JHMAW47W6_RTRMADP_3_BRAZIL-ELECTION-META-PLATFORMS.jpg?fit=300%2C200&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "BRB diz que segue com atividades bancárias, mesmo com registro suspenso na CVM e bloqueio para negociar ações",
+   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T23:05:34+00:00",
+   "image": "https://s2-g1.glbimg.com/h17vyzc6LoqFRR6BDj14acDfS5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/x/DluzHPQnKvygDxMN56AQ/globo-canal-4-20260331-1600-frame-415460.jpeg",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Petrobras vai aportar R$1,8 bi em produtora de etanol de milho, diz CerradinhoBio",
+   "link": "https://www.infomoney.com.br/mercados/petrobras-vai-aportar-r18-bi-em-produtora-de-etanol-de-milho-diz-cerradinhobio/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:54:47+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/fuel-6999638_1280.jpg?fit=300%2C225&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Após bater R$ 6, dólar fecha a R$ 5,92 e Bolsa cai",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWh3a0FjRkhCblNSRVFSWWlweDdkRHo1UExfUHltbkpka2VnTUxpUlRDZVFTakY4aUJNNXE4QmZDZTJFWFRrbXR1Qmx2OVMzTUVaWlpRQ0RhcE1GVy1Ld2N4bjhqWGowS2FUaVNVazViY1pqbGM4LVJUT3RtQ0dtZFlSUlJxSzdwQjlDd3kxNC1kb05zdTJzYtIBngFBVV95cUxNbDJJb1VneEZfQ09UdV9hUXBsMU9pOW81UDE0dUc4dnREUExadG9VdjBWZDJTUmwyeWZ2Z3hZZURPaGhXZWttM3BaT2hKc2lXTC1fa0h1eWQ1azEtZGg2cFBtTnpJbXBwTVlMSFZfblY4OWtIOVl6dndJbEVvdzV5LU1fMVAtejFoWWdqbTFONGhWblZRWlFJT2s5eW92Zw?oc=5",
+   "source": "iG Economia",
+   "published": "2026-11-23T22:46:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Petrobras (PETR4) aprova investimentos de US$ 122 bi em plano de negócios 2027-2031",
+   "link": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-aprova-investimentos-de-us-122-bi-em-plano-de-negocios-2027-2031/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:41:03+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-07T200133Z_1_LYNXNPEL360WS_RTROPTP_3_PETROBRAS-CHAIRMAN.jpg?fit=300%2C187&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
+   "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T22:40:42+00:00",
+   "image": "https://s2-g1.glbimg.com/6MPkId5iKZfdjbURf9b8A9_5hao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/A/eWQSxZTsiBBauuWB3Lyw/2026-05-12t153643z-1-lynxmpem4b15t-rtroptp-4-petrobras-results.jpg",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa fecha em alta e encerra pregão aos 164.796 pontos",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRkdfWGYyNDRCVlJMeFdhLWQtTEpBRnAtMGRrUUJaSjIwZE9rcUwtc09RdGY2NUl6Z192aVRVdGE1RTZvWmVsQkg4U1gxSnhpdHhfV2dQMXNRa2x3QXR2S0Y4TFNpWHp4WEpDMHg2ZlBuWmZTeHBldHFCR1hobUVfTGFlNXhrZUhYLTVSVEdKUjRIdlNnWVhUREc2STdwQdIBngFBVV95cUxQRkdfWGYyNDRCVlJMeFdhLWQtTEpBRnAtMGRrUUJaSjIwZE9rcUwtc09RdGY2NUl6Z192aVRVdGE1RTZvWmVsQkg4U1gxSnhpdHhfV2dQMXNRa2x3QXR2S0Y4TFNpWHp4WEpDMHg2ZlBuWmZTeHBldHFCR1hobUVfTGFlNXhrZUhYLTVSVEdKUjRIdlNnWVhUREc2STdwQQ?oc=5",
+   "source": "Brasil 61",
+   "published": "2026-11-23T22:40:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Petrobras aprova R$15,6 bi em remuneração extra a acionistas",
+   "link": "https://www.infomoney.com.br/mercados/petrobras-aprova-r156-bi-em-remuneracao-extra-a-acionistas/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:39:44+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Sonda-NS-42-da-Petrobras-no-Amapa.jpg?fit=300%2C200&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Petrobras prevê investir US$ 122 bilhões até 2031, alta de 11,9% em relação ao plano anterior",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T22:38:01+00:00",
+   "image": "https://s2-g1.glbimg.com/Mf76M76bqJVWuKm0oyupbxHDQYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/WqfClHTueLtcJGzJSCNA/agro-petrobras-diesel-02ago22-paulowhitaker.webp",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara - Suno",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Z0g1aUdIR2x4b1lOVW5xMm81VDNrSzhaVUFOX1BQaFNwMDIybjk0UlFXYWRYU0VRc1JMaUEtZEtoRXFuSnFVZ1EteWl2MXFZSnpWUFpXeFRMQUE2Ukl0TGdWWFF0T0VDR2ZzX20zUmRFMHBrcHhSWdIBfkFVX3lxTFBCZU1RaTlWNExqbVVIYTJ4NFRXTGk1YTZ6ektXeWt6Q2FTX2hzNXV0ZmJMTTVfLVR0aG9UTnZjQW9EVFJybFZQTTg3UnlMQ1lqaURoRl9NdEpLNkE1UEFidDZIRVZxbWxaeXJaQnpna2NIX1lQbHhfV1k2ZGc3QQ?oc=5",
+   "source": "Suno - Investimentos Inteligentes",
+   "published": "2026-11-23T22:26:44+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Líder do PL anuncia que partido votará contra projeto de ajuste fiscal do governo",
+   "link": "https://www.infomoney.com.br/politica/lider-do-pl-anuncia-que-partido-votara-contra-projeto-de-ajuste-fiscal-do-governo/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:20:38+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/sostenes-cavalcante-dem-rj--e1739795146858.png?fit=300%2C169&quality=70&strip=all",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "ipca"
+   ]
+  },
+  {
+   "title": "Dólar bate R$ 6, mas vira e fecha em queda; Ibovespa recua com Petrobras e bancos",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OVVkOTF5ZEpWcnN3dlM1MkJ2VTg4Z3Z4eGN0Vm1RYXlseEY4Yk5ZdXJTNnJUX0JYbzBscHVUT0ROMEdFUThhYXdKZjYwMkJBNjE4UnRFa3hpS2REUzBVeDFxYnV5cm1VMThr?oc=5",
+   "source": "Exame",
+   "published": "2026-11-23T22:18:45+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Líder do governo na Câmara diz que PT não apresentará destaques ao ajuste fiscal",
+   "link": "https://www.infomoney.com.br/politica/lider-do-governo-na-camara-diz-que-pt-nao-apresentara-destaques-ao-ajuste-fiscal/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:18:37+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/paulo-pimenta_ee8b13.jpg?fit=300%2C200&quality=70&strip=all",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "ipca"
+   ]
+  },
+  {
+   "title": "Por que a transparência é um novo indicador de segurança na mineração",
+   "link": "https://www.infomoney.com.br/mercados/por-que-a-transparencia-e-um-novo-indicador-de-seguranca-na-mineracao/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:16:14+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Moedas Globais: dólar avança com impulso nas ações reforçando alta nos juros pelo Fed",
+   "link": "https://www.infomoney.com.br/mercados/moedas-globais-dolar-avanca-com-impulso-nas-acoes-reforcando-alta-nos-juros-pelo-fed/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:12:43+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T220859Z_1_LYNXMPEM2H1GS_RTROPTP_3_GLOBAL-MARKETS.jpg?fit=300%2C200&quality=70&strip=all",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "selic"
+   ]
+  },
+  {
+   "title": "Moedas Globais: dólar avança com impulso nas ações reforçando alta nos juros pelo Fed",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3d5ajBMb0oxS1JnWG5fQmt0NURCQzdkblJlMXpzZFQ4RjIzYWJXa0RDVGFfZ3h1TWowd0xwckxaSnBuNFBFOUZmdW4yYzNGOHBHWUc4YlZmbmhJVWdZOW93YThTN0xjbEYyVVdIVWhmYUp5SlViQXBMZmVnOEFOckcwU2xDb0lQYVZuRU1PemRDOXRXLTZLNTh1X2JhYkZpUEMtUEpmUkpBUVN1cG5UdnVYRkpxTDZZVUlLbzFVQU7SAcYBQVVfeXFMUEQzNnAxbWMtTEFCVjctX3BuclkxQWZHZjJ2a3h2aF9ERzRNdXpzSVRwX3BDaWlJOFIxZWN6T1Q3SDBWa3hXS0xwT2lDaHNPOEdQdnlJS1JqV2VXNC1nWXM3NnMxVnBVS0o0a3BvdUNtM2tPTTh5Yzl6aDZLUXAxa0puOFdjY2pleGFXWXVWeDV3M0R5V1FpS1FNWmlxUThzc0tWemkzRmlncDBINHVhdk5SQk5ZempTMjFheUNkZ2x3S0xPbENB?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:12:43+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "selic"
+   ]
+  },
+  {
+   "title": "Depois de seis pregões em alta, dólar cai para R$ 5,92 nesta segunda-feira; bolsa recua 0,94%",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWhWNG11ZG01YjItTzV0aG41NWNYODN3UjE0c3gtelNQYUVFeTNfZ2Q2QmUzSVc0RmtuLTlUS05pU0tVdDc4NGthMWxVSEtPLWR5TTVGemZ5ZEl6MUdPdF9ZUXdQZlBiQURYaENrbFdkTXhlSjY5YV9rWEJsTXhWaXA2QnRBbG1YOUszeV9EckwxUHZvSG0tYkZnNFZjRnhDRXpyb0lQN05JZEZuWGZBUVU2aFhlRmM?oc=5",
+   "source": "VEJA",
+   "published": "2026-11-23T22:11:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Importadores estão mais sujeitos aos efeitos imediatos da variação cambial, diz IEDI",
+   "link": "https://www.infomoney.com.br/business/importadores-estao-mais-sujeitos-aos-efeitos-imediatos-da-variacao-cambial-diz-iedi/",
+   "source": "InfoMoney",
+   "published": "2026-11-23T22:07:09+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Após ir a R$ 6, dólar fecha em leve baixa, aos R$ 5,92, mesmo diante de incertezas sobre política fiscal e cenário externo",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU0xrMi1aUTE4WWFkVUtsekNvb2JOM3I2ZTZrMWI2VjliT3lLdnBvZEU2cmRUTU5mdkhDOG9RemI2OXhrU2FkX1hmWDI1MjQxQTFrTW5UbWFzb2VwZk5VTkZQekpPMmZwQnc5V2V0anlfcUpkU3l1NjdiTEpsY0phcHM1cWI5RnN4ZmhnNzJSMGxfX0w0Z3VRQTJDanFhcENodjRqNXAwVngwbUYtYzIwWTBJbENhQlV1NjlaWElBWW5wN2JBNnFTTXVERURUVDhMTFlEekpjWnpJZXlPNzR5VG43TdIB8gFBVV95cUxQeDNoRFhlTmp6X3pNR0pxcWNyVndBa213ZVpqRlR1eFBSaVRRYmZEV0dUaTFDRXJnbmxqVDVMWjRJS1laN1g1SjBFdkNCaTg2ZnczT0dFY1JQV0djSHRzNF9HRlFaNC1BQ3FhS1pIa2hzUnR4eG5kcFByc05SUXhpS2dFSzktNDBPUVhSakdPYjJkMmJjQTFiamF6LW1ZSGlxVm9RNGVsQ3RPbWFYenJHRnF2d0ZTa1hxbW5Ya215QUtkM25Cc3ZwOXdLeU91R0xSSGRUNVoyMV9xTk93M3llb25feG53VTc1YXdjVE8tSmdydw?oc=5",
+   "source": "O GLOBO",
+   "published": "2026-11-23T22:01:30+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Ibovespa recua pela terceira sessão seguida em meio a preocupações fiscais e incertezas econômicas",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVZGbUVtdmpSUldkM1JjOVdleVQ3ak1ITzIxdkFqOTZHclhQM2YybnFVM3lqRmRzRkQwUlM4TXo3bUVIQ090NnpCamNIclVGY1JTcUJLNlFEdWwyd21vOU0xVnBXUG05ajJsbmI0TjRMQWxHY19qSExlV3FwSHZQNkc5dEtmSXV5MU5qU2h6dm9nZFNhdzhlMkFXaFZqcXU5T2dQeTBJeHNsdXFSUThhN1phSGstaXV5cHpuQml5d1FMUzFyMUdLTFBuc0g3ZE0?oc=5",
+   "source": "ADVFN",
+   "published": "2026-11-23T21:39:58+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa cai 0,95% com tensão fiscal; dólar atinge os R$ 6 e vira para queda no fechamento",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWlqYU4xR1JTNS1mWVQtYVo3d2NBUVItTnJhNHhiWmVzY3laaC1KT3FSUnVIc2ZaOU1MQ2tNd1JzX2gzQXJJdUVHNEg5MXZzSkI3UWRJbkh3NmRUTUpkMVJIS1pDT1dHdmp1QjNQVElFU0JvLUlNVmtnTGhqR0pjVUJmWjdUemZnYW5WWEV2TXhpREI4am5rR3pmUld0VGU1Q1lJQVJfODZxLV92Qm9CWGN6cm1OLUtLVk5uN1ZvdzB5S0l6ZUxEbFhvSm9NaHc?oc=5",
+   "source": "Times Brasil | CNBC",
+   "published": "2026-11-23T21:34:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Ibovespa tem terceira queda seguida; dólar fecha em leve baixa após bater R$ 6",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0hzZG9EMVFMTTR3eWVHdDZJZWVwSm9yaTYzWW02UWNXUUNLeDktQUpvemF3WWwyMDVzbU13RFdVbkl0VEtGUGU4Qm9UTmZtTXhmZUxGdXdWSWlSU0t1a3BsUl9VelBtanhGbTZjUlNtdkVIRGlmQm4yaGU5YzA2LU5qMUJIeDhsMFM1eW80OA?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-23T21:31:41+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa fecha em queda com Focus e ajuste fiscal no radar",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vanZvRVRLT1hWalpOOWhaYkRfM1JsWXRQSE9NUi1oLXotRFpmVTVtd3NTLVRheFdkYVFiVjljNzJUM1kxdjVtNmpYNU41bUJ6NmNGXzFfc1M?oc=5",
+   "source": "TradeMap",
+   "published": "2026-11-23T21:30:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Ibovespa amplia perdas pelo 3º pregão com receio de ingerência política na Petrobras",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnFvZFI3Wm1SSmJzd3V3U1o5MU1oakhYUmE2Vnp1XzZIUjVEV3U5LW1Yc3kxU3dEcEwyQTBaMDhzakQ0QzRnSGZoTDlWS1dYWmJaUVEyaHRhejQ4Mko0ZGJkdlU5M3luVWgyaHhjdi00czZKaHpmbUlveVNmWThqdm54M0FIQmlGTF9tNmdMcGxhTldSNW15aC1yMC1ncUNKN2tBZGpFalA5M0ItUjN3akxaa3pZakU3bld3UXUwRzlhd3pXdG1hWHpmSWRsS2hlRFRnWGdfZEdId9IB6AFBVV95cUxQLU5Fa1BuTnJ6Y09aWHVmaVlPUFU1UkIxbGdXUFVsMkRLUE1kSnRGNG5saHhFdkFGcWZFTDRVY3lxbnZ0QWZpQno0VDdTOEFzRVd6TVV6VWZQamFLTFpPdVlqRWJ5RFNJbE9ORHFhdFJ4X3E0Tk04cUU3QUhGUkdOalUybEFVcHFhQUhQemxXQld4MzQycmRTd0JtUlpibVo1eWp4UXduOFdkUUFtSjRlODN0ek4tTXRaWnZ2WXc2Z3o5WHhWMWZGZDhOZVBMY3RCd0hkMGF4Q015MS1ncU1XV21IU0lMZ2k4?oc=5",
+   "source": "Valor Econômico",
+   "published": "2026-11-23T21:29:22+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa perde os 165 mil pontos e fecha no vermelho com incertezas fiscais",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ZVdEWm9yTER1RFpyNkJVN0NaNjU1RWhaeDE5NG1Zd0d2bU1WcVFxU29ELVVxd0hIX2k2Q2JNRFBHRVl5NkxmMl9zVldXb0tzQkpFN0o4SWltOWtuV1pRZ3duUzh1Zw?oc=5",
+   "source": "Money Times",
+   "published": "2026-11-23T21:29:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar fecha a R$ 5,93 após oscilar acima dos R$ 6 durante o dia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVE3X2RFY2tPcE5ZSW0xM0Z0Nzg0VUVsVWxnSWkyOFZzeE14LURQUjVYQ3FDTjBlbmxpRGVwOGphcjNiOHNGakxqRC1DN3A0OWRQUS1NTl9QeF9iYjNlTU10eGtORmd6QlkzWDQzY2NjTWtCWHh4NzNRVHNEOGh1UHhQeFAycV9rTjJKQkFXdmFGemtmRnlfNWtTVVV0TjhHWTcxUlY1U2JsN0w2Nm1zcE5R?oc=5",
+   "source": "Agrolink",
+   "published": "2026-11-23T21:24:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T21:21:39+00:00",
+   "image": "https://s2-g1.glbimg.com/EWRJHsCVIWX29z4MNUXa429hq8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/MYS0j2ST6I4Comu4XCBQ/afp-20261109-d6vf9cr-v2-midres-topshottaiwanusnvidiaprobeespionage.jpg",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "CVM suspende registro do BRB e de mais quatro empresas",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cvm-suspende-registro-do-brb-e-de-outras-quatro-empresas",
+   "source": "Agência Brasil",
+   "published": "2026-11-23T21:14:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Em meio a alta do dólar, governo prevê piora da inflação e do PIB",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXB2dFUyM1JIUEdTaUZoRzd3ZzI3eU1XWUhYS2hNY2NzMkp6eDUyUEdFTGJWUEdVbnd1NFRYQWl1NUFGamVma2hKNkZuaXZ1T1BnVVNaZ2xiR2R1aW4ycFpycnpycGZWa05CQm5fMzdaMmNPMXkxUlAzR0oweE5lVV9fZjRSdE5mSzJFOUJOVl9BX3AtU3NiVWFTczFmbVk1dGQzSDA2SVpJZHUtaUw3ZkNONjJWUHliQWoyeFV4bXNsWldaeE5JT2lCaDg2b2dnTEE?oc=5",
+   "source": "UOL Notícias",
+   "published": "2026-11-23T20:57:50+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Fazenda afirma que dólar a R$ 6 preocupa governo por repasse para inflação",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXZrWjFoZHNaMUxWOExhenNNQWFsdXJKY1A2bUNzZW4wRDBJVHBITnVJRVB4MGd5VkFUVmwwQVdXbWdnMGNLNkFEQ3Jfc3BaRU92VVh3aXIyVDl0Z3FWNjhiWDdaVEM1NHAyc2NaN1A1MTAxc2FDaTIwaHBHU1FvTUVEQ3ZnYnNlbjR2akt1V1U2bl9zeUxtdjdQUUVqWXVScFNrVUxoM0tYY3pIVmZlbDZJd0tfQ3g3NGtNeDUxVjZFTWtJOWVXZGRMYjNZRkFRbWdNNWlR?oc=5",
+   "source": "Correio do Povo",
+   "published": "2026-11-23T20:46:36+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "MGLU3 sobe 10% e SEQL3 cai 11,8% na B3; Ibovespa recua 0,9% hoje",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnNWMXhkTGh5UlMwQmlqLXEyTllTb3dXZlVscEhXa2hVNTlCWkZGY3hfdTZyZE45WUNHQlhicTRHblNRSFdlNUlQTWptUGdrTnJLT241dU9JS0d4OEdGWnRWT2U2Q1lESjBfYUtjX0FWZW9wSUJlaWdScHFIRTB0bmE1bnREenl6R3NtR2JCTVQ5bXpWazVOVnM0YVA?oc=5",
+   "source": "Visno Invest",
+   "published": "2026-11-23T20:45:46+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar em alta: como investir no exterior sem depender da cotação ideal?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmtGRk43SHo0ekdmYWRtM1NxYVFiZWVDT0lEYnY1ZGJBYW1NVUwwWmtpMGd3bHFBSjA4NUZMZ2p3MGZUNEgwb3l1MzRUQVdDU1BrQi15RU9PMWtlX3N3bXN2bU5CRWk3dVhGNVpXd1VRX1ZrR1B5bTFMb2dGdFdzUUdkONIBiAFBVV95cUxNMG5tX3VEUjE4bC1ULW1WQ2c2bEM1S1RqcWtrYzNHUzZkeVB6RUV4UXA5bTN4bTZjN2VveXllV204N19hejdQdnlfQ1dnRGlsVTJBdm9hZTdmQ21STjZuWGIxbVpBWWxyY05mSy1TZC1MWVQ3ZjBzeElBMlRhQnhHcFVKeGh4b0dx?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-23T20:44:25+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T20:44:10+00:00",
+   "image": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Batmóvel de 'Batman: O Retorno' vai a leilão por até R$ 37 milhões e pode bater recorde",
+   "link": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T20:27:43+00:00",
+   "image": "https://s2-g1.glbimg.com/lIxiy8F7pWpFArUFekypeIUgME0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Y/XwojCOQ42AhxrtnVfhWQ/e7f2505e-3c53-423a-9415-7963e5533ce2-1-.jpg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Dólar hoje recua e fecha a R$ 5,92, após bater R$ 6 na máxima",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWVUcEYyVUJZR3VGWmgzcVdSZ0NJd0hDYW55blFkdnF0WW9mbjZuRWFpT3lKUS0xS25BSlQ4TnBVV2tGVU9XaEVpRndDN1FMRWtRWmpfUzREdFpSOU5EUThlNm9YZTFoMVc4c2hBYmZoc1Jmd0wycjk2TXo1eTdpenltUk1hMWU3b25tMV8ya0tVNEJoSF91YVYxZGPSAaIBQVVfeXFMT3lHY2Y3LVZzZ3BwUGJ5dS0tczVRX2lUQ2d5MTdSLWo1OWZTNG4zRzd4a29oQU5IajJrOGpDb3Z5bVNCREZSOVRUbUdVUXhGYkduT3ctUVFCbW5xZkkzUm1SZUpxRGZWYVhId2ItazBlS2l6MlJaZzBRZ1o0X3JzckJmYUZlUXFVU0VYMUxRdWRLa25za25PSTd4T1I5MzkwMnpR?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-23T20:24:37+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLU04a3djTlJvVWpxQmNEdzRjNWc5QnlOOEloR2pvM3pka1RnaWdwVlF2TnY3bHFXa1dxS2N3THpvanFSV0tOT3hZMnBkZWU2d0lYendDeWpnc3BadTJadF9rMWhaaUdRTy1vRE1HZG85SjZpcXVtNnlyQ2VFVHJwU0d0R2xFdl94c1liWDZ0b3Vmc2Q0c280OFRMMkZKSF9xa1dYVmROWmRVWkQ2RVRyT2FWeWdWZDRETHlZS2ZvMHpiU2pCQjlQS1B4NmtFTnVNVmVSR3dsRG4?oc=5",
+   "source": "Estadão",
+   "published": "2026-11-23T20:24:09+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar a R$ 6: como evitar comprar no momento de alta",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDByeWl6d25vNG5XV1RHaUp1aXhZa1ktem1CRkFlZjNtcVdpU2p2bGc4ZW5qa1BHRlVpd0NoanFJeEhqU1RCUVZaejJQWTRqQ3FDZ0RYRWUyMk5mYTNUYXZyOGtmQlplbnk0NVBpZGdoSUVMQ2s2b2JiTEVYWFZESdIBhgFBVV95cUxPS2s1SFJhbWJVYjM5N0kxdHlYLXI3QzlYNHp0MFlDeWJPVURFYXlLV3VTcjBiTmpSU2JwRFJsT0xRclpiOVdXc0NFWXlrTHoxQmRaQWgzZjYwN0FzRjNxRl9hUy1naFNUTU45aFhBWjgyMnhMYzU2OTcwTHJfM24yWHBLNGVYdw?oc=5",
+   "source": "InvestNews",
+   "published": "2026-11-23T20:22:25+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar recua após superar R$ 6, com especulações sobre equipe econômica de Lula e alívio no mercado",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNalJzSlRJNlRnak4zNlNhT1pPOFgtcDlWN2VaaU9vQktVSFprN3hMLW1oeEoxUFFSQUZMRUNsNzZqVHByZG1Iek9UTlF2eEl4cFBJWk0xQmY5N0NVbVY4UDBaYzFwQm5UMjJkRlY1UHZJMzE5aUVyTmx0VVZPcXlzSjhjUUxFcU5hZkhwRnowUndCVVR5QTRfWDhfdnluMUtCWjZJaWdDbnQtLUtadmlLTkd6eGp6R2xOdVpoSkpfWWh3VjZmUjRtc1FNT0s?oc=5",
+   "source": "ADVFN",
+   "published": "2026-11-23T20:20:47+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar fecha em queda após superar R$ 6; Ibovespa recua apesar de NY",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQkF4TjM3YXkySC0yNEd4VmJtM3ZyRW9fdjE1bHlFYUhRUXFKQUZkYTRxNGRTenRUdWkyVTJYZGZVRkh4WEY1WmdCNXNOU29nUDhyMzdXSUVvaEF1QXV6ZjdnUVRXOWxEMlRUX0RDYktsYlJZSDVHb2NCdWRMbXJrTWJfWlBRY3NxX28za1dZREd3M2I5S1JLeTBVM3FFWUdNc3d6VkctdWxQVUJpeEpuc0J5czN3dktwX2hJWGhEeEpmQnpXcDU0MWhyUjhwZlA1?oc=5",
+   "source": "UOL Economia",
+   "published": "2026-11-23T20:10:42+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar fecha em leve queda após ultrapassar os R$ 6 com tensão fiscal",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhOXdPSUp1cnN0LTFqRWVZenJRb2g2NkE2SlowUmQ1SFVNMnQ3cmR6aERNQmFySzhBVTY1QUNCa2xCSDFFa20yS01fLWNiVWhVWlprd0l3N014RkZ3SVJpQmFB?oc=5",
+   "source": "Money Times",
+   "published": "2026-11-23T20:08:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
+   "source": "Agência Brasil",
+   "published": "2026-11-23T19:48:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Dólar bate R$ 6 pela primeira vez em 19 meses: é hora de comprar ou esperar?",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVB2c3pIS3c3NXNSeWNVdWJBSEUtQURyd3VzMHlOWWJuZkZ2OVRmVF9vSlY3UHp3bXFzUGJLWW9WVDhMenRjbnRHQWo5Zjh3MXlUTDFmZ09FQndpVnVqUV9YUll1bExRdFJGMUdKY0V2Rl9GRkRXNDdUbVFQckF2aDI5eDlzR1ZMa3hyYWJtNUpBdFRJWTk1VEIxRnJXMVk1ZWptZGUteWVoWUphTVhIVmpkZUVpLXZIMXVB?oc=5",
+   "source": "InvesTalk",
+   "published": "2026-11-23T19:45:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Alongar a dívida agora ou esperar: o crédito com garantia real depois da eleição",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbNIB-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbA?oc=5",
+   "source": "Valor Econômico",
+   "published": "2026-11-23T19:29:18+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Fazenda eleva projeção de inflação para 2027 e vê Selic mais alta por mais tempo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGs3UmdXYVlQYTI0V3JwWGQxd2NRS0ItXzN2Ulh2Nk9LLXI2SGxTOWdZTFh2aG5GMkd4QnBhUFNPNTYyeDRCZ3hxMndPb1ZIdVA3ZDVYMkoyLXhiQ0ZZeFFoM0NyZXg0UzVGLV9GTjFibVBhSnlTajNNR0MyZTROMHduVVJLUU42ZU8wRHZ3X2VjTVo5RU9sWHEydFBwVDgwc0QtWjhpbE1YTnZYc2lUYUFmeURQUzQ?oc=5",
+   "source": "Money Times",
+   "published": "2026-11-23T19:21:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "selic",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Não tem ninguém para avisar o Lula que o dólar enfraqueceu nos últimos anos por causa do cenário externo?, questiona Oriz",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOd2NuRS1sdUhRU0JDYmtsLURta0E4QWJZc0RraHczb2Y2QVpEWHRRZUMyWWQydXhZejVlLVMtemR1S2lRU2kxUU1kbDg2Q2U5dVFfQWxsV1NfenpZT2hzMHZRcTl1c3JYelFBdlpBSV9vdWoyV21ESzBOMnYtdUNSWDBlM1RhUE1SZm4xZDdQYzVTTW1vSWcxd3Fkc3AtOGNCcFl1aWxDdUlqUHVMQzMzTGRueVRoWFFfZHhvMk43VERUUjJBOEhSSDZlYTV2ZjlSWHBzNVlUdUNselNoWDV2ak1naTFJWWxrMjVNRllJVVNodWFpMDcxVFFvVTllRHFUN0lWTHdTMXHSAZcCQVVfeXFMT3FCbTBZT1F5di1ycDBTS3BKRDV6aGlmSzlXSEZmWTRxYWtNX3lPLUV5NUZQQ2ppQmo5dTdmb1ZvWElXVXBaWFN2OTItUXBIaExoQ3FSQi1Vem9nQTBzUENLX05LNm4yckhsZDNEU2d2cFZHb2EybDNoVWdRU1FRb2l5SUpSLXpyUWw4Qnp2TndBbzkxa1VGeWEwWE1UQ1I5OWEtTkpONmd0dUdlbG5qOUQ0dkFQMGdldUNPSS1Vc3lvOHdtVTlCb0l5YktlTy1PQ2Vjb05jcDd5OTRLLW4zQW9hNTYyVkJ0QW1sMUhNNzlkaXdQSjJSbEJia25qMjRvS05fWW5mbGhmWDM3RXU1OFNBN0MyOTlJ?oc=5",
+   "source": "Valor Econômico",
+   "published": "2026-11-23T19:08:34+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ações do BRB perderam quase 75% do valor em um ano; entenda",
+   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-23T19:06:05+00:00",
+   "image": "https://s2-g1.glbimg.com/wGARdDNyFci3my5M5EGwtCv3DO8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/X/ygJmUwQeCNJF4NiHO3RQ/f0753-lu-operacao-brb-18112025-frame-41424.jpeg",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  }
+ ]
+}
