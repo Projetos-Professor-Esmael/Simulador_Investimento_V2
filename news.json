@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:50:01.537430+00:00",
+ "generated_at": "2026-11-27T03:29:13.731796+00:00",
  "indicators": {
   "selic": {
    "v": 13.75,
@@ -20,35 +20,10 @@
  },
  "items": [
   {
-   "title": "Dólar cai a R$ 5,73, e Ibovespa dispara mais de 3%",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenY1dElhN0JrVFpPQzRSV19ROGJveFZzQXdjLVoxRFRIekI0WWk5Ry10X2xETW1BNXQ4RlBNUnRhQi1LaGc3dTd4cmtsVVBNazRSTFM5SjQzcjdJeVVsZGNwdGU2Snk1Uy12bnhkNGhXNGF6LTFGMDhueThDMUlsYUFpSEdIV2xVTFdJX25vQ1gxcDdJOUE?oc=5",
-   "source": "SBT News",
-   "published": "2026-11-26T17:46:13+00:00",
-   "image": "",
-   "sources": 3,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Ibovespa dispara e dólar cai abaixo de R$ 5,80, de olho em nomes para a Fazenda e Política Fiscal",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTIxZF9pYWRBRXN0NUdfZUwtUFpsWFdiWGozZXJYSXlmcXBSaTk1NmhYNWloOFNvcHg0UnF1OEVvVFJBQlhlYy0xY09oTG16d3RhNk0tRmwydXNuSTZxZ3c3VlFkQ0RXMWhkSkVORVJzeUZKenJaR3lfSy10U2FXdHR2QWtoWG5rSk56d0VDMzlYLVp6aVZEa1RFclBBbmhIbUJvZmliSkltTV9UY2ZWQTJIeDdDaUFZZGE0UmM3TjJOT2tJVEFGaXotaTQ?oc=5",
-   "source": "Sincovaga Notícias",
-   "published": "2026-11-26T17:41:00+00:00",
-   "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
-   "sources": 3,
-   "category": "Governo e fiscal",
-   "assets": [
-    "acoes",
-    "ipca"
-   ]
-  },
-  {
-   "title": "Ibovespa cresce 4,5% após sondagem de Lula a Trabuco para Ministério da Fazenda",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGFWcnVtZ3A1OWJFcVV4LVRCWGVtTkFOcVVjOGY5QXAxMmVjN3JZNFp2Z19kM1V2UHgwaEdUU3ZxeFI5ZjZkeWprdUV4b3dUR1VHTW5lRTJVX29SMC13SlhOMl85VlVDUWc0T05SMS15ZVZVMDRybEx0ajVsX0gwaE9oc2dudmdDQWFmNHY3UDFGZnpHT1RwWFRDN1BkRl9yVEpaaVFQN2c0dw?oc=5",
-   "source": "O Potiguar",
-   "published": "2026-11-26T17:07:02+00:00",
+   "title": "Dólar cai abaixo de R$ 5,80 após Lula sondar Trabuco",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tWjdlVlRLcWpmMU5UNWFiYk02MFVBWFlVWWhOMzRWcnU0QmV4T2cxVnllRVhkT2VhdTY0NGVlazFJUlE4VTdEa1YyTW83dmsxRXlSa2N6UHRySmVlOWpxUXFxV1BsYW45RGRFdG9LMjRhbldHOFE?oc=5",
+   "source": "Acia Araçatuba",
+   "published": "2026-11-27T03:12:52+00:00",
    "image": "",
    "sources": 2,
    "category": "Governo e fiscal",
@@ -57,10 +32,23 @@
    ]
   },
   {
-   "title": "Ibovespa dispara com 'efeito Trabuco' e IPCA-15 abaixo do esperado",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHoydXRTWS1SWGlpV1NSN2Y4ZURTZjc2WTVXcWFKUDM5LTRXS1ZDUnYwN3c1cTdCTVA1TmdJa1RWZGRlN3NwRjR5VVdQNnYtRzdlMHdZbmdhbWlZWjRqLWtwVDlkM2dUaDhhSHlQSHctOXVMcl9qLU5MRXMyVEhUaWoxcFIyam9KaWN0cDE5MG95YUtWQTRMbnZMVWVQWmFtaWNfeWVvVEwzcnROLWN4RkFVaWQzemRabV8zNHVIVmh6NVEzeHc?oc=5",
-   "source": "Jornal do Comércio",
-   "published": "2026-11-26T15:36:17+00:00",
+   "title": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/27/por-que-trabuco-provocou-euforia-no-mercado-entenda-o-que-esperar-para-dolar-bolsa-e-juros.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-27T03:00:00+00:00",
+   "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+   "sources": 2,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "selic"
+   ]
+  },
+  {
+   "title": "Dólar cai a R$ 5,74 com inflação e escolha da Fazenda no radar",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWEd3MXNUS3lXZFNWMnN6cHMyV0F0cWFjMlM5QmFscTl1WWhORjlOelE3ajdkMkpWb1REQlZvSmJPNG1xR25nTEtINDFRQ0lEOXJYdERVZklUZUtsTDJsaEZHQUh0YWVmVUdGZjBia3hpMUpXOU1KTUg5b1BPOGhkb3M4WjE0WWV4amVHYjZzU2w2OEplTU9tdm0tMA?oc=5",
+   "source": "Vero Notícias",
+   "published": "2026-11-27T02:45:00+00:00",
    "image": "",
    "sources": 2,
    "category": "Juros e inflação",
@@ -70,274 +58,109 @@
    ]
   },
   {
-   "title": "Dólar cai abaixo de R$ 5,80 após Lula sondar possibilidade de Trabuco assumir Fazenda",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNalNKN3NTMklPcXB3TjhTbk0wbUg1SnBEQnozek9pZ1JxbU5uVW9XZ3o4OVhRaGhhX0ZTaVdRN3FpNlA4UnNUbFhUM3RmOXV2T05CcS1LNVVBRENLdk5Ib3JCQUF3VWhYTWZsd2lYN3RCZXlldUZpM0FiejNLcHFQdnNpYnhtV0Y5T3ZGUXF0YkZveDY4bXA3a0FsOUbSAaIBQVVfeXFMTWFlcmhCZ2NBd0xqa01fYnZLWmtmeTdMb0RvZW85eXEzNkRCeXMyZ05JSElCa2RFemZmVDY5aVU1dzRVYXFVWlJ3aF9tZk1xaUNQZm5lN2xRYkVZUzVRWU1TZ1BVdURPVHVZb2NPRWlFQ0FMRTEtZi12S1duN0tfaEJpQ1dRTVRMTVViR0ZKYnlkbnVhNlNSaEVaemFDSzhDZWxB?oc=5",
-   "source": "InfoMoney",
-   "published": "2026-11-26T15:13:54+00:00",
-   "image": "",
-   "sources": 3,
-   "category": "Governo e fiscal",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Ibovespa sobe 3% e dólar recua para R$5,74; foco na política fiscal",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHdDLTl6UEprVGVIVmgxRXRYQVY2RFpuRkdaSEhYMzRSQ25hMGNCQm4zYkNtVHU1bnBTNmdkLTJ1cVRoRkJJVU5PSWV5SHFhRzJvWFp3eEhqb2JaRm1uUnNIMkNfMnJJNGJqY25acjBVVW9GUEVQelJZb1d3WU5MS2lxMmVpdHc3WVJHd1FfbndvRktuV05nYXVLOEYtUUQ2TUl3STlETTVLQ3ZTeENnbnhWNDJ1VTRwdHc2WVNCZ0I?oc=5",
-   "source": "Gazeta do Paraná",
-   "published": "2026-11-26T13:45:22+00:00",
-   "image": "https://s2-g1.glbimg.com/jtEhk2PBzxG_p_Tjk_T7hW-tLew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/u/ANm8sNRum329AkIUyooQ/globo-canal-4-20261123-2000-frame-57575.jpeg",
-   "sources": 2,
-   "category": "Governo e fiscal",
-   "assets": [
-    "acoes",
-    "ipca"
-   ]
-  },
-  {
-   "title": "Dólar abre em queda e Ibovespa em alta com Trabuco cotado para Fazenda",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlR4N25mSEdIT1Nrbmh5M180TEdTNWJMTkgwbUo2b0pzWE94YjdOci1OZzB3UUZjVnRaaFdqd2VQb1BTY2J3ZjRCSXNOTmJWVzYwVFNmU1BtTEJjaXlXUG03QUYtTzEzWEtCajJtY2VnMlVRNERIN1RmbUtiQ2V1UTVkT25NYnY3WXpwb19YS1VkTzJROWE0SE05WEUxNWZrblQwVGVCcXZGejVyaU9jTnluRVo?oc=5",
-   "source": "Poder360",
-   "published": "2026-11-26T13:26:52+00:00",
-   "image": "",
-   "sources": 2,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Dólar cai a R$ 5,77 após convite de Lula a Trabuco",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2tFeXd0a1g4UF9qX0tPS1ZGaTA1WVhQQjZyandTekF6TjJ2Z25BWW9SMkdNYUtuNElCemI4bVV3YzRKTkxCSDlGS01mT2xlV1BlMkhXSjdPLTJ0RkY0cU4xMnhYaDZwdlhkMEFlYVNRUk1ZOFF6R0dBZ2xudkZ4eXQzRllnZGdKQzNFTGh6cEQ1TVdqS3kzUg?oc=5",
-   "source": "SBT News",
-   "published": "2026-11-26T13:11:19+00:00",
-   "image": "",
-   "sources": 2,
-   "category": "Governo e fiscal",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Ibovespa Futuro sobe 1,33% com fiscal e comando da Fazenda no radar",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CbllWVmVmSUJ6RV9scmlYVHpNeTJOVXp2a2Q3NTlEMnU1RGdUci0xQ0VqeXVob2VLWWpmMlIwcjBYWmxrMFpPNDdiWmhqRkNRVmF6WmQ1SERZTW9fZFh1VXhkWjczOW5oMjdxVlJOMzc2d1UybEp1MlF3?oc=5",
-   "source": "ISTOÉ DINHEIRO",
-   "published": "2026-11-26T12:39:57+00:00",
-   "image": "",
-   "sources": 2,
-   "category": "Governo e fiscal",
-   "assets": [
-    "acoes",
-    "ipca"
-   ]
-  },
-  {
-   "title": "Dólar cai a R$ 5,81, com novas tarifas de Trump; Ibovespa sobe 1,58%",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjFrZ3NKOTdHRmsyYWplY3VLY2hneW9ZN0tSbEd6OHQ2UDRlYjluMWZFT3gtVUFLNk1fUW4yZHRDMHF4X3VqUXVGeEVjdFNHNHdZaGxOM3F0MXZPQjEtc1ZFcFpNbkk4eXVqd185Q2FTWE5XYklFTmZWbkJjb3loajJDb1IxTmhXVHNPTGhzdkx1Y2tQcjJ5WVozSlFkb0lEYUZ4YzlqTlZDdw?oc=5",
-   "source": "brasilagro.com.br",
-   "published": "2026-11-26T07:32:19+00:00",
-   "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
-   "sources": 2,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Queda da Bolsa abre espaço para dividendos de até 20% ao ano, vê XP Asset",
-   "link": "https://www.infomoney.com.br/onde-investir/queda-da-bolsa-abre-espaco-para-dividendos-de-ate-20-ao-ano-ve-xp-asset/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:48:05+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Peixoto-XP-Asset.jpeg?fit=300%2C200&quality=70&strip=all",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Turismo estrangeiro movimentou R$ 53 bi na economia brasileira em 2026",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/turismo-estrangeiro-movimentou-r-53-bi-na-economia-brasileira-em-2026",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T18:44:00+00:00",
+   "title": "Trabuco aceita convite de Lula e vai comandar a Fazenda; Bolsa sobe 6% e dólar cai a R$ 5,74",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGJNaVV3UUNKYm9XNUhZNGd6QWhJU3ZrQ3RTeDBkamRjOXpXZHVoVDN6dFVZZEY4VUxqMVN6S0ZPazZrdGhHcmNfMkZwMFdoN3NnaUE2M01OOEhtRGFhM19EVGRySEhCX1N2U3dhbzRxekFNMkRFZERKdzBFYlFDNzBLbkFLOHM5bG9JZlducnQzc0xiU0dUdjFUM2ZQTndFUGdyLQ?oc=5",
+   "source": "diariodenoticias.com.br",
+   "published": "2026-11-27T02:00:05+00:00",
    "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
+   "sources": 2,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes"
+   ]
   },
   {
-   "title": "Renovação por 30 dias da subvenção de R$ 2,12 por litro de diesel será publicada nesta sexta, diz Fazenda",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/26/fazenda-diz-que-renovacao-por-mais-30-dias-da-subvencao-de-r-212-por-litro-de-diesel-sera-publicada-nesta-sexta.ghtml",
-   "source": "g1 Economia",
-   "published": "2026-11-26T18:37:06+00:00",
-   "image": "https://s2-g1.glbimg.com/XODZ4GgdScdTY4IKQpu-cyVbYyo=/4057x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/h/MeIuLARZeiBebWSTbN5A/mca-edit-27051807942.jpg",
-   "sources": 1,
+   "title": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2RaRzNnRXRTUWVHMHMwdnNRcC10TE9DcTRxMWdXaUg2Z09lWk1lUlpka3FSVUZSVkVDUnRJM045cFBwWUF3Z2JWUnRIcnVmM1BMSXZMWERBSTB5ZDVvSTJFQTY1YV9uM3FXUTBhQXZnWjkwbjZyNTdGdkRoaWZkdzdHRkhKZk1vNkhOSFltdzdwNzNNaGJHbURGWV9IVDhhemhaOHl0VUJtc24yMTMtbTYtMmVXVHUtM29WVg?oc=5",
+   "source": "O Potiguar",
+   "published": "2026-11-27T01:07:31+00:00",
+   "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+   "sources": 5,
    "category": "Empresas",
    "assets": [
     "acoes"
    ]
   },
   {
-   "title": "AO VIVO: Dólar em alta! Onde comprar mais barato e economizar na sua próxima viagem?",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3pjQnM0OV9GdEs1a2VNY0ZMTl81R0Y1elJZY256cm00NkFoUHFSaDMzcEtxYVdDQTdVbVlCNTV0ZWZHQU5IcXQ5WWVRZGpuV0Eyd2VBd2FKU3BZLTdaWktIYlVZOEhvSjEzMm1lZkRYdVl5Tl9BZGRBMHUtUkZVR3NPb0RlYWFDVXdr?oc=5",
-   "source": "Melhores Destinos",
-   "published": "2026-11-26T18:37:00+00:00",
+   "title": "Como a confirmação de Trabuco na Fazenda deve impactar a Bolsa e o dólar nesta sexta (27)",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHlfcEhReVF0alNyNy1NbmtnbWdlaHR1QU5RYmZIWmJpZTE0VnV5U1A2anBGYnQzSVRrdk1HMVVFOXR3ck50WGNIWkZ4RWdCZVA5UUpJbm5vSGtoUGRIX0xWc2NEVEk2WXRsWVFfdWhpamtGWmM2N2RRZmN3R1NNU1B4Z0RiZV9YQ01yT2JQck5TVGF6aW9vbEtoa2dZM1k1RGRTamhuM05LSm9TMkNkU05TNFNsUkttdGc?oc=5",
+   "source": "Money Times",
+   "published": "2026-11-27T01:02:00+00:00",
    "image": "",
-   "sources": 1,
+   "sources": 2,
    "category": "Câmbio",
    "assets": [
     "acoes"
    ]
   },
   {
-   "title": "Lula não terá “lua de mel”, mas há espaço para fazer ajuste fiscal, diz Zeina Latif",
-   "link": "https://www.infomoney.com.br/economia/zeina-latif-ajuste-fiscal-governo-lula/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:31:31+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2020/01/zeina-e1579016396321.jpg?fit=300%2C203&quality=70&strip=all",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": [
-    "ipca"
-   ]
-  },
-  {
-   "title": "O que explica a forte alta do Ibovespa nesta quinta-feira (26)?",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWswRlByQkp1eVN1TEtGekdmVlN0Yl84Q05NaHdDSFB0Xy00bE1vWG1uM3d6UllqejFGY2htTWRsNUQ1TUtHdFAxWTQ4NXgwQm5UOXI3eHdvUEpJME8xZE12ZkpKaXYyUUZabm9RczZrb2RRM3ZzSTlGclBSTnRrZ2NCWkY2eVNJUURPcndubkV6Tml1VE9wTkpoTHBTeHFQdzlHTm1USkhyRTdNWl94VVh5ZVE3U3J1bTYwZ0l5c0R1WGZNYmc?oc=5",
-   "source": "Estadão",
-   "published": "2026-11-26T18:30:08+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Dólar hoje: siga ao vivo o valor da cotação",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnZZWUU3TUFSaldOZkJSaWs1b1dleURIZEthaUFTcEJtZGtkWDlGOU1Sa21KU3ZjQWk0YVZmUDNlZ3dsM1ZkTkZkRlNYUG1YTXdHOXBOckRwYUpjaXRhUkx4bTFvRjNfclJlOUo0V1dJNnZFLWk4bUNESGZudXhROUx0ZzRmendWaEotQWxJSzdvbmtDM0RaUVVQZ0FHazAxc05mSUZIekstSkNULTJyc1FMZXhDRmJ5eGROVWZLUTM4SGtweWc?oc=5",
-   "source": "GZH",
-   "published": "2026-11-26T18:24:32+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Kassab diz que mercado está equivocado sobre governo Lula 4 e pede voto de confiança",
-   "link": "https://www.infomoney.com.br/politica/kassab-diz-que-mercado-esta-equivocado-sobre-governo-lula-4-e-pede-voto-de-confianca/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:20:40+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/6168801321_dfe93c7fdb_b.jpg?fit=300%2C200&quality=70&strip=all",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": []
-  },
-  {
-   "title": "Ibovespa dispara 3% com ‘efeito Trabuco’ e recupera os 173 mil pontos; dólar cai a R$ 5,74",
+   "title": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
    "source": "Estadão",
-   "published": "2026-11-26T18:18:16+00:00",
+   "published": "2026-11-26T23:26:51+00:00",
    "image": "",
-   "sources": 1,
+   "sources": 5,
    "category": "Câmbio",
    "assets": [
     "acoes"
    ]
   },
   {
-   "title": "Quase 70% dos consumidores já se sentiram enganados na Black Friday",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/quase-70-dos-consumidores-ja-se-sentiram-enganados-na-black-friday",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T18:18:00+00:00",
-   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Entidades do agro, comércio e transporte acionam STF para adiar reforma tributária",
-   "link": "https://www.infomoney.com.br/brasil/entidades-do-agro-comercio-e-transporte-acionam-stf-para-adiar-reforma-tributaria/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:17:58+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2024/02/justica-stf.png?fit=300%2C179&quality=70&strip=all",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": []
-  },
-  {
-   "title": "CEO da Fictor inflou capital da holding de R$ 4 mi para quase R$ 1 bi, diz MP",
-   "link": "https://www.infomoney.com.br/brasil/ceo-da-fictor-inflou-capital-da-holding-de-r-4-mi-para-quase-r-1-bi-diz-mp/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:15:01+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Rafael-Ribeiro-Leite-de-Gois.webp?fit=300%2C180&quality=70&strip=all",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Vale a pena comprar PS5 na Black Friday? Compare preços e ofertas",
-   "link": "https://www.infomoney.com.br/consumo/playstation-5-ps5-black-friday-2026/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:10:00+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/ps5-black-friday.jpg?fit=300%2C200&quality=70&strip=all",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Vale a pena comprar iPhone na Black Friday? Compare preços e ofertas",
-   "link": "https://www.infomoney.com.br/consumo/iphone-black-friday-2026/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:05:00+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/iphone-black-friday.jpg?fit=300%2C200&quality=70&strip=all",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Festa da posse de Lula tem atrito entre Janja e o PT e indefinição sobre custos",
-   "link": "https://www.infomoney.com.br/politica/festa-da-posse-de-lula-tem-atrito-entre-janja-e-o-pt-e-indefinicao-sobre-custos/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:00:31+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/img_4443.jpg.jpeg?fit=300%2C225&quality=70&strip=all",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": []
-  },
-  {
-   "title": "Conheça o jato de luxo do fundador do Madero, grupo que faturou R$ 2,3 bi em 2025",
-   "link": "https://www.infomoney.com.br/consumo/jato-de-luxo-fundador-madero/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:00:00+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Junior-Durski.jpg?fit=300%2C200&quality=70&strip=all",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Black Friday Nike 2026: quais são as principais ofertas?",
-   "link": "https://www.infomoney.com.br/consumo/black-friday-nike-2026-principais-ofertas/",
-   "source": "InfoMoney",
-   "published": "2026-11-26T18:00:00+00:00",
-   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/wu-yi-zY3zIOdKXL4-unsplash.jpg?fit=300%2C202&quality=70&strip=all",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Dólar a R$ 7,50? Sem \"fé\" em ajuste fiscal, mercado pode caminhar para cenário severo, alerta casa de análise",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUXNXSXY4UWVjN3VoWmlJTGh2ZXVoZ2ZoS2FTSUlvLVpZczNsa3JUd2s4WmpsVFFtcU9tTE5CR1FKOU13aEtxX0k0TkJOSEl1XzNZcHEzeDc0RnRPVVIwNGFhOVJQbG5Tcl93Y3FjTTZybVpxODZlSHVackE3cllTcmNPUE5KV1RDNk5ndF9RMVBmYXh5X2FweEtmdHNYRUlxQXpJQ3hudU1NM0djOFV0QzJxQ2otd0lfaGxnUUhUeElSYUtRQ1JiZTcyeVVNUms0alo5U1BsbzR3amxjWFJnVEpoc19XcmZNbnNB?oc=5",
-   "source": "Seu Dinheiro",
-   "published": "2026-11-26T18:00:00+00:00",
+   "title": "Bolsa dispara mais de 6% com efeito Trabuco, enquanto dólar fecha a R$ 5,74",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXZzakhTdWZjcTJZRDY1dm12QnNHcVhHeGdyQTgtcXptc2h2UHlKTlp2dTV2c21VY2owZjZjSlV2UWJUODNJZkRnQjYyRmlCSkUtSUZwaFpNOU9FS1JSRF9SS1luMlRDbUFzdUhqRmpNYnJ6bzBZekU4V0ZsbnkwUldUQ2NGay1nV0V2Yk82cW5tZlZVcXFLaWI1OFpkVExzcmloR3R0MXZCYUpPSldCOXJDWUc?oc=5",
+   "source": "DComercio",
+   "published": "2026-11-26T22:59:00+00:00",
    "image": "",
-   "sources": 1,
+   "sources": 2,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574",
+   "source": "Agência Brasil",
+   "published": "2026-11-26T22:54:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 2,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa dispara 6% e dólar cai com Trabuco confirmado ministro da Fazenda",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZktrMzhzMnBrNkhQOUJ4UVZnM1ZoWHByZHpfb3RTbVFFU0g0T2R5N25oNXhqY1diX3hVaWluRkZWNjEySlYyQVNSWlB4emUxVWFvaTFJYjlXc3JnY1Q5eDA4aS02cU90ZU0xVXZJUkw2S2VWNWhzejUxNVdha0s4dVlzRk1UX1kwMWtnS0d4OGhwVDNYemRYYzlPSTRuejQwZHk0U0xSRmlFOVhLdi1lajFjZ2ZGeXJLVTl1dnJKREMwbDNJVEhvQVhCWWE3U3FIWjU2bXNoYzZ2RTVCbE1iZHZTUGdYd1JfMy0yMdIB-wFBVV95cUxNZFhGVjlPbkZTTDJkR1B1U3dsRl91UTJUOEV5aTJDQlVxblpyVGw0YnB2Y2FPRnJKSnpia1BRN0tYS2ltelZkWDZWd1lPazlLV0Q5RW9jSHNzT19UdjExanQ1UTBmbkQtVG5TZFNMNWdBNDdDS0FKMVhZWm93RldxaEZQRUttbF9kNmlqTXB1ZzFHZDRRWWRZS2tOT0tMcGZtUXd4b2J4VFRPSDF1cjRVWHJqQkR1VnhHZGhTTTl5dFRudXowQnB5LUNXMk1Md3h4TTJqSnMtb0xicDhxMHNlNXc2UmZYUnBZZFZXSkVfd1NFYmFieGp3ZkJPRQ?oc=5",
+   "source": "G1",
+   "published": "2026-11-26T22:47:56+00:00",
+   "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
+   "sources": 9,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXl1R0NiSDliSVUxSVVrNl9XbzZpSFRUOTlqb0pQRFg2emFnVUp1RmxpaWlDZUs0TnJmbkhrdFo0ZlhoTW5JWlQ4WnlRZkJHNmladDZhTU9IWXkzOEdlcENKNWw0YldyVDJMUktqUWhYSUQtWl9Nc3lPVWM5X2VVbUJoV1E0YkZKMWZIY1dBd2RJczNUR0k1cTRrT0NmaFVoSDNqZFlFOHhxR09MS0ZyeDRfZHhpRlJycm8yOFBrUHlDNDF5cGVPNTV3?oc=5",
+   "source": "Bora Investir",
+   "published": "2026-11-26T21:46:00+00:00",
+   "image": "",
+   "sources": 3,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Ibovespa dispara 6% com expectativa de Trabuco na Fazenda e alívio fiscal",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnA0S3dhRVhJRThFbzdyaElxeXlUTkc1MmtDcThubW1zbUJ2M1NsSHdEcjJza2xRcnBXNkJqUFFKTlVRRHdaLXVRZ2NZM3h3b3duTkszYkhVSUs5dlcyS2lnSHhsZmlBNnJEaDRLREUxZUdHRHQwaVREY1pEbjBBZFFBd2prNi1xWlV4UWJLUmtQbmgyUDZuTTU4UUE0cTlPNDNlaFF1dFBFeW40?oc=5",
+   "source": "ADVFN",
+   "published": "2026-11-26T21:40:41+00:00",
+   "image": "",
+   "sources": 2,
    "category": "Governo e fiscal",
    "assets": [
     "acoes",
@@ -345,320 +168,87 @@
    ]
   },
   {
-   "title": "Brasil pode entrar em recessão em 2027, e nem isso garante cortes expressivos na Selic, alerta UBS",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTjlyLXVnNWtxT0k2aDV0UFpHdGZfTHZGb2RRWU9uS1d4SVVKQ0dhOEpNVUhnZXRnUDgyYzFNVjBCVlZBSWJxSlpKM1pSd01ROWtqRGpKeHBzWDdYMGlQVnZCcDlSSmFqSjBlZk05VURHak13OHdyUzhHVWZiS2ZLM01USlBEMHdSTVVfZjc0Ymt2b25VeU5JdC0xb09TaG9zZHNJRE1MNnUyWmJrQXRwVVFQZ2IzNFh3bVF6aW8ycWp4aWVFOWc?oc=5",
-   "source": "Money Times",
-   "published": "2026-11-26T17:58:00+00:00",
+   "title": "Diferentemente dos ciclos anteriores, o corte da Selic em 2026 não reduziu o juro médio das famílias",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzNWQzFWZW9FSkhELWN3Qm8wZFNvWElxZGxXY2dzZFFMS1gxd2ZrS2poaXhsdktrbks2bUNrUmJZSXlHNnZSbTlqbEF5WmdrTHN5Z1pyNUMzM3ozeGJmY3pSbFZkT1lKT1ZJNXJIYjV6NHdLVHp3a3NUU2duMno2Q0FiMlk4em1YUXRoR2EyS2F6NHdxSWJYX0JFampmUzUyOHVwNFlJMERpcmU1WGU2MTRxZk9odFVKVjIxelA4Zw?oc=5",
+   "source": "Fundação Getulio Vargas",
+   "published": "2026-11-26T13:46:34+00:00",
    "image": "",
-   "sources": 1,
+   "sources": 2,
    "category": "Juros e inflação",
    "assets": [
     "selic"
    ]
   },
   {
-   "title": "Nenhuma ação em queda no Ibovespa: os dois motivos por trás da festa de hoje",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmNXRmZjTjB0TnplaXB4Rlh4NjdXaDVRTlNlNUF4UjF0UHJFTGpDUHRldXFNVGdlLTlUNjBaRG1sMHhfWTFDWWJ5bmtBNE5PcC1kRmREbzJfWjJKT1FYLW8xNVJxbEw2NHM4ajRBWDBfUW9vWU5HeGY1UXNlNzJSWmZKdU4yd2w1M1d3aTc1ZXREdGZKUEV0SHY4LVlRbGdRaWZ6dUJvWGprbkljazl5dw?oc=5",
-   "source": "Money Times",
-   "published": "2026-11-26T17:50:00+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Alckmin trata possível tarifa a aviões do Brasil como “descabida”",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/alckmin-trata-possivel-tarifa-avioes-do-brasil-como-descabida",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T17:46:00+00:00",
-   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Recuo do dólar para a faixa de R$ 5,90 reflete sensibilidade a medidas fiscais, avalia be.smart",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMS16UG92WEFCdDJrQjJnWXR1dzdxcFAyQUlqanJBZzJzUFhZa19mV1hIVVZMZEdrRU12QTJ5RUtCQlBjbXFKTWhpWEZKQk9YcE5NTFNaX0daMVlvbUNqRXpyTmNoeU9IbnJqZ1N6M1RFMzB3UDllZ3pTckhpa1E0cTI1bmlEM1Y0ckRtVmNoYlRrb05DdUNZNnYwaWt3czBsSUtFczFvZUVxa1JMNVY1UEJXNW5MM3ZLdHFJV3F2ZVI?oc=5",
-   "source": "Brasil Inovador",
-   "published": "2026-11-26T17:30:09+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Black Friday: veja dicas para evitar golpes nas compras on-line",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/black-friday-veja-dicas-para-evitar-golpes-nas-compras-line",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T17:28:00+00:00",
-   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "IPCA-15: serviços aliviam, mas clima e dólar desafiam a inflação",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVBSM1FyQUw0YlNYUXBaUzFsaXlYb3ZQQW5kNk1wOENRSVBDejZGVW5kdDUwMm0xM2t4amJndmV6d2dnc0pSYm1jY2hrMkhBXzNUUUtLcWRTMjdxSGFwT2xrT2JMa2RZY0FXMmEwMmV3QjBaRmEtb3JDd0h2cjJHT3NCY3loeFg0SDFQUWwya3VuRGZvMjhZd1ByVQ?oc=5",
-   "source": "FGV Ibre",
-   "published": "2026-11-26T17:11:15+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Juros e inflação",
-   "assets": [
-    "acoes",
-    "ipca"
-   ]
-  },
-  {
-   "title": "Black Friday pode ter menos descontos com dólar próximo dos R$ 6",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRXFIMFVlZUtUYXdfaUxxeVVOM1A2M1ZrRVRUaXhLOFI1VEFNVjZQOHpZV0ZheV9RTnZtWVZsZ1NreWZLLWRhTXhBZ05RY3RUWHF6RktpbTBPTE42bXJnRG5qSDc0Uzc5VHN5MlZQOWNNblJwb3hjallya0xHcktFbGpUMWtXZEdtV0ZsTGVBUGNBbGc2ZC1ITmZQcGZJeHVYcWpCT3ZNRkRXTXlOWW43YlhwRm5XZl9KMC1BWjM5R21DcjljRjc2UzdNek1WVXM4SXRSaXBrZ3NDbmg5TnJ2MVp6TTc0dEnSAfYBQVVfeXFMT19TSFpTaUxac1o1VElPOXFfT0hCNlVjVkZGeDRpRHRkU213NFVWUmJoNWo3YlN1UU1mRnEydHpNeTh4N2wxVHZsN3R2b2NlM0ZSckM0cHowcFdXLUVRYUlKaVlzYjZ3cFJ5STlEWG84LVJzeFp1bmlNRFVrcUl5dzFNaHVMcEsxUUo3Q1FZTmRMRVRCTUtwUVZwT1VuZEppTWVQMEdhMERoRmlSYWJQbWRYcFZWX3hCUHhLTzhpMWJ2NFFvaFI0LVdaa2V3OVZpU2tGWlo1YzRtMFVjMDBBV3J6VkpRaFNabTdHNWNoS2REbmw0VU9n?oc=5",
-   "source": "G1",
-   "published": "2026-11-26T16:53:31+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "XP vê pessimismo extremo e projeta alta do Ibovespa no curto prazo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWdHWTBhb2NONGV0ODlEYkltYU9INXlxVVMzMUZMd0xULXM2a3NDcldMeGQwaGY5UHN6TjF5TmladFpfMjVFTlF0NUo2ZzJvRFU1bEZYZ2ZDMWJkcF8teGZNWDI3clJLZjdQLVEzVWF1dGEzd1h4MkxnN3UtcGFSaThPS3dHQmVyS000YmppNjZRMkV4bkFfcE10SjFlMmQyNGRlR09mcDVSMGhGREV5VtIBtgFBVV95cUxNRlB5Wi1GMWd1eEpHZjYwelllMHItc1gzT2hMdm1lSUpDd3BqWDNCZnpLYm9LOUJQS1VRQzQ4YUZLSjJRb0JtaWJrN0dkTlk1SWNUUUpubGZaaHB1RjVEejJuZzl0WkphQVZCemRkQi1IbDVlbnhmMUsxOXJ3Y0hUcWlHWXF1Zlo0M3FLZDN2ZWFtZ0pqeEl6WjBYd09VR0MwNXdvRkVtYnd4SGtGV1NuVVMtZXpmUQ?oc=5",
-   "source": "Investidor10",
-   "published": "2026-11-26T16:46:50+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Alta do dólar: economista explica impacto da moeda no dia a dia",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUWRwSlZzc2cxcHI3U0lFcVRNaWo5bUZsWVd2QXhDRmZyTF9QRjRxWmUtTGtGTmJERm5FdTNCd28zNG5qbWx6ODludGIxa3lINlB5ZXRmS3lBR1Z5Y0YxS1JEWk13YzVHalFkbUZRVHJoQlUxQVR6cjVZVElOVFQwXy1zVE9vME5GNjM3ZndUdF9OQkZwZTQ4dWNjR0oyUnpFd0owc25LZ1VSeVBhcEl0elU0SVdpSWRRck02X0JQWVBETXZjN2tnWXp5ZTJqZkpzdmFtd3dybktZUzFMeTRFd1I1WUx0ckxCc1djc2t4d2lJcGpQSndqcG8zTGFpcFFVcUx1Yk9mSdIBlgJBVV95cUxOR0dSWE9sbEthdDJsNHBPeGw0LTdtOFF6c1pnMDRqUlJNOGthQVNaQk9mYmJ6T3paUmx5MFFkaVo2bFB2OUVlNUFwU05ZdUdSU2RSazEzS2RJdWpwVTE1XzlPQ29OLTRhSEpZb3lMSEtqZnlBSDRYREtneWVQZElPTnI0MWFiTUFfQmZpaHZILWFSTEg0dDExUHNZa0xlNjRnQ1lzSHM5bllDQTZEQ09TUWxKRlhoTk8wMHBQcjJHMFNtX2ItYmJOZDZCVHZXS2pSaTlZNmxhRGlxSlplMUdiT2NtdVVySFFfc2JneTJ2cjZXMFlkSEwtSDhsMEpXenBpbHJEakRsQ3VFY1RtQkszT1paN1hQdw?oc=5",
-   "source": "G1",
-   "published": "2026-11-26T16:30:11+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Alta do dólar dá pausa em dia de Ação de Graças",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UX0J6SUJONVdselYxbmtlZ0RMS0lBTTVWa3VqQ2NFVTVKQW0yczVBUmxTdHFheWZpbTFDM0JGR09DSDRYWUlzXzVhbThIY1FtcmdoTm56ZTNHWlNGX24ybDVmbG9xRjhzR2RuYUhId1VKNGV6MmtJ?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-26T16:22:25+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Trabuco na Fazenda: possível indicação anima Bolsa e faz dólar cair",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sN1lzWmVEWnpvcU5wVjk0N3RsUEFIdmxmalM1VmxwX2otLUo1c0Q5TWt0UU1xeUozNXZRSVdOd0VxTy1IMGkyZTUxRmhZNXBJa05kZmJRRy1SMXloNzg1WkNJUXZfZFJ1LTJiLWo3WldQWkFkY24wOA?oc=5",
-   "source": "ISTOÉ DINHEIRO",
-   "published": "2026-11-26T16:19:34+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 4%, em alta generalizada, aos 173 mil pontos",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5",
-   "source": "InfoMoney",
-   "published": "2026-11-26T16:17:04+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Dólar hoje vai a R$ 5,71 e Ibovespa salta com Trabuco e novas medidas fiscais",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVFFpYTJWeW12NGdpdGxKNW1FU29LNV8zYUVxMndKdXNSa2xGV0UxUDJjemltVTZWT3ZSbkZsUnFHV3VfV1R3cklJOEpKWVBIbVZJZ0ZoOGtkWWJKbVFTQjVWVHZxT1BuRHhzTmk3ZERiR21TeDNfOS1ld2EtNzJBU0pUdFlFaER4ZzhwYTJMdTdQbzA4cVdLV1VaaHlYanV4bHFCR3VqeE1QOGsxMXRRMjZhVUUxdFI0MHNRZlBmZTh5UjU4MFhSZ0pYY1BKZThBRXZXZGE5UjhKZ9IB6AFBVV95cUxPTlNWLW9SeVluX2V5SWhWYmUtNDBrV0xVY2lvaVVVQmxvSFNoeVRHOTdCTXBhWmh1T0l6VHU4OGI3QjRzeGxNeEE2RGU5eEsyZUVjQmprYTlTOEtFUTV1MGg5eEJTWG1nZ0NyeDkwbVJpaW5lVmVPZjkwcFl3eFlvSE5DejJ5SkV2U0dkODY0ZU1OOHhYV0g4amZqdnAzWGdESUM0UW9hOVZTSElrdW8wU0FmR2k5b1FQOFk4dUJ2RVNiWTZXcXIwUmpOR3J4WkRtdGYyN0FaU3F1YTNhbkw4TDlrcHAyS2FG?oc=5",
-   "source": "Valor Investe",
-   "published": "2026-11-26T16:13:51+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
-   "source": "g1 Economia",
-   "published": "2026-11-26T16:00:01+00:00",
-   "image": "https://s2-g1.glbimg.com/kufsRXLNF6Do1xJ-ifKFbbDnAqM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/r/Le0ygFSR6vKFbFhMwirA/captura-de-tela-2026-11-26-105712.png",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": []
-  },
-  {
-   "title": "Black Friday: celulares lideram descontos no PIX entre produtos monitorados pelo g1; veja lista",
-   "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-celulares-lideram-descontos-no-pix-entre-produtos-monitorados-pelo-g1-veja-lista.ghtml",
-   "source": "g1 Economia",
-   "published": "2026-11-26T16:00:00+00:00",
-   "image": "https://s2-g1.glbimg.com/7aJ-cZ-5V-bVBzTHZYJPiD1RaG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/x/65HyqvSTOwNjbacOSjYg/foto-pix-mais-barato-e-precisa-se-giaccomo-voccio.jpg",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": []
-  },
-  {
-   "title": "Seca na Amazônia: governo estuda auxílio emergencial para pescadores",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/seca-na-amazonia-governo-estuda-auxilio-emergencial-para-pescadores",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T15:56:00+00:00",
-   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": []
-  },
-  {
-   "title": "Investimento estrangeiro no país chega a US$ 1,416 trilhão em 2025",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/investimento-estrangeiro-no-pais-chega-us-1416-trilhao-em-2025",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T15:50:00+00:00",
-   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Investimento estrangeiro no país chega a US$ 1,416 trilhão em 2025",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3lNX3piOVcwZ0VNa25saGVEeVM0UmczblpyUkdPay15c20waURsTmlNWlExRFZoOGlMZUptVkJHVG1VYUVWc2FFa0x2VmtZRmJGQ2QwQkVNRFR4R3NaS3hMVTl2bHRXaXlLM0hIeGw4cXgwWEQ5WXdVMGhtOTJTQ2RNLV9zNzdXazhsV2JsaldGelJmWm1NVGVVOVY3WUt3bUdQckpqcnJJa2Radmg0aW1rNnRNZVFnTWM5MQ?oc=5",
-   "source": "Agência Brasil",
-   "published": "2026-11-26T15:50:00+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Ibovespa dispara mais de 3% e dólar recua após IPCA-15 - Suno",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xc3FpSG9lV3VIMV9RZGJMRTE2VkhPajltQWJEVGwtS2hrQVZPRWZFeHEzMXc1RzZmZExWMEw3NHB3QkpVZEhVTnY0NmVfYWJfc21WWm82b1ZST2MtY19DeHlUZHdTLU5ab1hoN3NEMDJ2SVNvSHVxekFFQl9qd9IBgwFBVV95cUxOU0lEUUhWMy1wV0NGTDl1Tkt2SmpUNVVtV0hEZlRWaW16ampkNlRJUnd3Vml4UEVURDN1dk1neElvTWh2ZHBhQmpXOGFOS3pkRXpyVEtQeFNCVlNmRzZzRXc0SElQeUQwSXZza19vbDlNQ1hveE9hYnZUajZ4MmZjZDVkUQ?oc=5",
-   "source": "Suno - Investimentos Inteligentes",
-   "published": "2026-11-26T15:48:21+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Juros e inflação",
-   "assets": [
-    "acoes",
-    "ipca"
-   ]
-  },
-  {
-   "title": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/26/governo-da-10-dias-para-que-google-amplie-informacoes-sobre-anuncios-e-fixa-multa-diaria-de-r-200-mil-em-caso-de-descumprimento.ghtml",
-   "source": "g1 Economia",
-   "published": "2026-11-26T15:38:39+00:00",
-   "image": "https://s2-g1.glbimg.com/G6BmEYtOtn_48_6Rur7NOJOJCl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/r/jLptk7TVeGwIA1OPH2fA/2026-10-06t142830z-1400402375-rc229faavkce-rtrmadp-3-britain-court-google.jpg",
-   "sources": 1,
-   "category": "Governo e fiscal",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "'Carne dopada': exportadores brasileiros rebatem fala de Macron: 'grave e inaceitável um chefe de Estado recorrer a inverdades'",
-   "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/exportadores-de-carne-rebatem-fala-de-macron.ghtml",
-   "source": "g1 Economia",
-   "published": "2026-11-26T15:24:20+00:00",
-   "image": "https://s2-g1.glbimg.com/sgOEt820l6onJ9RDGEvZ34Sj0jc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/G/AtfP9JQsiKPZ35KBXvvg/captura-de-tela-2026-11-26-100401.png",
-   "sources": 1,
-   "category": "Geral",
-   "assets": []
-  },
-  {
-   "title": "Ibovespa sobe mais de 4% e dólar recua a R$ 5,71 com otimismo no mercado",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXZwWDM1WHAzUVgtaUMwVWlKa1o1TzFaM2lZZU1STWlRTmpHOTg4SzRnMmE3dXJSSDNiS2ZjdU02eUZJSF9Sci03UHd5MGVCdmlRRFNKUDdNZWhNc2M0b1BMSG13NzRrbWFZbmI1NEtHanFYVUNRN2o0Y05CR1M3eFZFS1d5all5UFdVcDlOcTNNMkczc3NzdEdiS3dLQWlEMUNZR1prNXdTX2NtT19ZbA?oc=5",
-   "source": "Money Times",
-   "published": "2026-11-26T15:10:00+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
    "title": "Ibovespa avança cerca de 4% com especulação sobre Fazenda em pregão com feriado nos EUA",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ecy15SjVDN29TQ1Vmak91X3ZLX3huT2syMTZSYnE3ZTQ2eUVlUGk0VXU1OFc5aDhGWkZqbkY1eDZyQXQtWTFUVF9TcGtjQ2tvSkRfRXkwLXp4ZWpsSGpLZThzRGZwOXpvakJLd2F1d1pxVVJ4cERv?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-26T15:09:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTzVVYnE4eFRaZ2Z6SDNuYUdRQmhsQU5GcU9wR3E1eDFId2dnNjRiMEFNRFZDTjBtZHFGbWxhanBVZzJfNmhfS3pScGlIUHFPa2g0ejhYeGktRHdla2JodEpYQm5vVWVkREpQelota0RiNk9xM0JERi15eVpSR3dNNWRsNGVIOU1KTmt1OHV3LTI3cjhPRlJzdkswODk3NDBuOTVVck8yV0wzOThhdG5GbDFCNG85SzQ2UzRsQU5aMlR6TlZ6dkhfVEUxbngzbm96b3o0ZFFBTGR0dVQ0aDRTUWdNWVdwakk?oc=5",
+   "source": "UOL Economia",
+   "published": "2026-11-26T13:19:11+00:00",
    "image": "",
-   "sources": 1,
+   "sources": 2,
    "category": "Empresas",
    "assets": [
     "acoes"
    ]
   },
   {
-   "title": "Letras Financeiras superam retorno do Tesouro Selic e lideram ranking de renda fixa da B3",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzdFNzZnNTJDY3VBQWV5Y2lkSnBvOGdDVWxWOFRHNjJmT3ItckRlM1ktalo4SG5WY2NvVjZQRllnLUFWVXhvSWVwZ0hlVjVocjNubjQxUW1GdTY5SjZjT3F4UnhRTGdGTlljcFlhbmF2U0xJWmk4ZWxTSVdVRWxacXdwQ19RdGZGX0ZHUWpyakRkREw3SjVKdWNhUjAxVzBFeVpSaG5GOEJyNEE2RUVoNTBtdGxBbENSWVNTSC1ROXptZkU?oc=5",
-   "source": "Money Times",
-   "published": "2026-11-26T15:07:00+00:00",
-   "image": "",
+   "title": "Após atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 é incerto",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-27T03:00:02+00:00",
+   "image": "https://s2-g1.glbimg.com/fWZralL0XszQ5jlLJvKuH-ETm-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/e/1ySLoPReK9VJX3iQCE2Q/dari-durigan.jpeg",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-27T03:00:01+00:00",
+   "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
    "sources": 1,
    "category": "Juros e inflação",
    "assets": [
-    "acoes",
     "selic",
     "ipca"
    ]
   },
   {
-   "title": "Enfoque - Informações Financeiras - Enfoque",
-   "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPdW9UVWtkTUVnSEdXQXVfejVGNzBrUlVpc2JfTEJwM0xUTkFuQUJxYV9yQUw0NXJTekl6MXNGd3Rwc2x6TTNZdkx5ZmxCNE5wbjl3cWVoSVlTRDcxbWNwQzIycDZJT1hfVHFNZE82YjlsZmhJUk9HVmNsOHVVVERnLXpLZi1aUTRxNFlJZS15VmtvQ2RWeWNVX1JPN0luVHNxTG03THZ0WUYtTi1acWdPaktLbnZjWEFzNWFsbUpjUDhUdEVaT0FpRzFEZkg4a3dZYjVsSkJ6TTRJMklBdDJ1NU1fUWpkLXBjRkxKZjJPaEJoRFY3SVB1cUtiS1hISFMxQlZzcjRYOUxQb1hfVG8yeDJrN1d6aWtVc0tHSnNQdlI4NVliaWJ3LWhYOWQwNDA0SXFaTVNKNmVuTWp2cEpVNUpkZ1Y5MXgySFVOSTZ2ZXlOZGlwbVdOd1AtUHhNSUcwT25abldoeEJDcnRyc2NSVVFvd19ka29zTnZJWldhQWFhaWZ3UTJXaGRsSWU0bURPNWNYNUMxNnVkam9fSnI4bHFUY3J2OEl1djZuRkM4djQwREFMbUdSak9LVWRybU03MnU1LWt1alpjcUhEYVEwbGVMX3BOeUZRYnVBd24xZjJ4SHQ5WTE2cndjdVlkdFR2azVWVG9TOWtGZDNGSU5zRlRHNEE?oc=5",
-   "source": "Enfoque - Informações Financeiras",
-   "published": "2026-11-26T15:06:44+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Rali de Natal no Ibovespa? Veja ações com potencial acima de 40% e como avaliar - Investing.com Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUNpNEtYdWI1dnplTkczYkNkNjFzcmFTVzluWFVXUmpWcmhabHd0MncxYjhfbDZTNFR1eU1KNGc1SXVGcjVOUFlzb2hCUUZ4aFpOV1p2bmRxTzNTZGN4b1BrTDk2Mkc1SXM1cGdwbjluTkZxU1JHTUw1UHhBRDlldmpvamlhR0t3bGJCbVFPdDlDUDJ3ckh3LUtCNWxpbGtualJqZ2txSEpkSE5qWDUtclhTNzF1VFJKWklnX3EzZ0g0QzFiS3NYRjVPaTRLdw?oc=5",
-   "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "published": "2026-11-26T15:04:00+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Empresas",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Até 20 milhões de clientes podem ser afetados por medidas de restrição, incluindo no cartão rotativo, diz BC",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/26/ate-20-milhoes-de-pessoas-podem-ter-limite-do-cartao-de-credito-reduzido-para-conter-endividamento-diz-banco-central.ghtml",
+   "title": "Após EUA proporem taxar aviões brasileiros, Mauro Vieira oferece apoio à Embraer para buscar novos mercados",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
    "source": "g1 Economia",
-   "published": "2026-11-26T15:03:45+00:00",
-   "image": "https://s2-g1.glbimg.com/gti9XsHzNNZ6swXeebGQSUtb0eY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/S/rsN1z8TAOOoScxRuhZZw/e7b59cb0-3a5b-11f1-b0fd-19d0757b0008.jpg.webp",
+   "published": "2026-11-27T03:00:01+00:00",
+   "image": "https://s2-g1.glbimg.com/UgwCH9SxosEAugxrYvZkx0eA0Zc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/C/FT39AjR8CwnoyA0iqvaw/hyel-ccxeaegn73.jpg",
    "sources": 1,
    "category": "Geral",
    "assets": []
   },
   {
-   "title": "Real frente ao dólar: por que Goldman projeta retorno acima de 20% em 12 meses?",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3BfYS10QWRadTZKT1QwZ2tUelg3VkdDel9LRzV4V3E4N1JGY2lNTGVKdS1EMGlrNTB3VkVweU5CdnRYWGxiU0tqUVhpNzMwVTFoQVVCX1dlTWxPRExTWUpIN3IwX2syS204TUxJaGJldkZsdXltT3BYZDRMa3JaLUgxSkfSAYoBQVVfeXFMTUNrM0xBZWVFal9VQnl2dWNJWkhHdl9CZV9rMS1YUlA0OXR4VzV6UGstOHVKZ1I2RjFFRXpNeW5seDNtcFRLQ0poalRGbFRIOXVCUkJVSjM3QjdzYVBkNURDcUVVT2p4eWc4Z2NtQXY1UGVPeTRhYVM1RF91T3B4d0oyd1hvTUtuX0p3?oc=5",
+   "title": "Alcolumbre elogia Trabuco e promete diálogo do Congresso com a Fazenda",
+   "link": "https://www.infomoney.com.br/politica/alcolumbre-diz-receber-com-otimismo-escolha-de-trabuco-para-a-fazenda/",
    "source": "InfoMoney",
-   "published": "2026-11-26T14:51:55+00:00",
+   "published": "2026-11-27T02:04:58+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado.png?fit=300%2C200&quality=70&strip=all",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Durigan cita Haddad e deseja “bom trabalho” a Trabuco na Fazenda",
+   "link": "https://www.infomoney.com.br/politica/durigan-cita-haddad-e-deseja-bom-trabalho-a-trabuco-na-fazenda/",
+   "source": "InfoMoney",
+   "published": "2026-11-27T02:00:44+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-26T214044Z_1_LYNXMPEM4P28Z_RTROPTP_4_BRAZIL-ECONOMY-DEBT.jpg?fit=300%2C200&quality=70&strip=all",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Ações se estabilizam após um mês difícil; dólar deve registrar o terceiro mês consecutivo de alta",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zSUN5MzJPRk56Y0ZLNlhkZ0hyeWJ1TkFwb0s2RmNyZ2NSM0FITnl5bnFveDNpSTk1MUZrbUhXTUZUTExQNnNuM3ppUHYyZ3M2TnB1b3VwWjI0RV9NMkM0RldnclhRYk1sOFk0UjhwMDl2VkQ5dkZz?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-27T01:54:00+00:00",
    "image": "",
    "sources": 1,
    "category": "Câmbio",
@@ -667,48 +257,447 @@
    ]
   },
   {
-   "title": "IPCA-15 Dá Alívio, Mas Economistas Veem Selic Alta por Mais Tempo",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYk5iUy1WbDk5R1JEUVdRZzBVVWtfSjBSQ1RoWW9POVJSQmswRjIwWmIyNl9zR3FOMG5OYVRISzJKSnc4VUxfUjhRbkJSdkFFZW9EalpzbmdpM0U0OERVNGdTRFlMYlpYSm1JQ1Qwem53WGw2MU9KNTJGQkFGNTA3bU9iNGctak41dUpPVmxGcTRKeUFYUE5oR2QyNjhZNzktNHVrVndwSDRKY1Nh?oc=5",
-   "source": "Forbes Brasil",
-   "published": "2026-11-26T14:49:04+00:00",
+   "title": "Anbima diz receber “com satisfação” escolha de Trabuco para a Fazenda",
+   "link": "https://www.infomoney.com.br/mercados/anbima-diz-receber-com-satisfacao-escolha-de-trabuco-para-a-fazenda/",
+   "source": "InfoMoney",
+   "published": "2026-11-27T01:17:06+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/luiz-carlos-trabuco-bradesco-02-01.jpg?fit=300%2C191&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital",
+   "link": "https://www.infomoney.com.br/politica/jair-bolsonaro-tem-melhora-mas-ainda-sem-previsao-de-sair-da-uti-informa-hospital/",
+   "source": "InfoMoney",
+   "published": "2026-11-27T01:02:02+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-14T013128Z_1_LYNXMPEL7D00Z_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C199&quality=70&strip=all",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Mega-Sena não tem ganhador e prêmio acumula para R$ 82 milhões",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-nao-tem-ganhador-e-premio-acumula-para-r-82-milhoes",
+   "source": "Agência Brasil",
+   "published": "2026-11-27T00:58:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Veja a repercussão da escolha de Trabuco para o Ministério da Fazenda",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda",
+   "source": "Agência Brasil",
+   "published": "2026-11-27T00:51:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnp6dmwxbWgwNTZZQzZ2bzFQUk5KRk5hazRvZnNJaDhXVU9WNHliVTBNSnEwMTFsRDQ2TVJXaWljd1Awc2JkQ3lVS09nQ3pTRVNFazg5bnk0XzlvcGYxSXRmYW9weWRnZUs1aVdRQkdxY0xrdFBGWW03Rkl3R09JTGRYdk8tVnhwQnRyeXM0dlJ0aWtacFhwY19ZcXpDS044eWxuTkZCSjMwLWFNaXpUYkdhTi1HUnZlTXBteXJyRVFqLXJtSWVkMkVINXQ?oc=5",
+   "source": "Brasil Inovador",
+   "published": "2026-11-27T00:46:27+00:00",
    "image": "",
    "sources": 1,
    "category": "Juros e inflação",
-   "assets": [
-    "selic",
-    "ipca"
-   ]
-  },
-  {
-   "title": "Latam reforça aposta nos aviões da Embraer apesar de custos e dólar em alta",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmQwWlJuOG1TdS1DUTQ2MUhZSldEV2Z1ZGZsbzBseFNyX2pZS1FRUk5RbGYzX0tnY0pYdmt6T3BsUkJMMUpLWlhwdXJ0TVFVUGlZcFN6SWk0amM4U2d0VFZqM1NqYVVHdzlMSEpUbl9TZXZzN3lFWFV2ME9DNmxHejctZ1FCeWlBcWNHNHJxZWx5dUJTMkZZZjBoRVM0cnpzMWlvYndjWUxuN2pm?oc=5",
-   "source": "NeoFeed",
-   "published": "2026-11-26T14:45:00+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Câmbio",
-   "assets": [
-    "acoes"
-   ]
-  },
-  {
-   "title": "Meio-Dia Mercado: Feriado nos Estados Unidos esvazia negócios na B3, Ibovespa sustenta alta; mercado segue atento a política fiscal no Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRjktRC1LYUY1RVhveFFvb08tRk5CSUpxUkl2Mk5SNkdfYzcyaE4zRXEwT21MLUxVcXRhNmNfYXREYVAyWHljd3JncExfZnlqUHZjYjdlQUpzT2tuTkVMcU1GQVFkdlBzNG5Vd2hSWnlCeHBweHFEZU93TVFYLUcwRU5ERzZ4YzM4dko2X1ZQWU5DdkMxdkRXXzhlMFc4QTlEOW5QaVVHWHlGeHlpd2JpVlNJQVZOY1VJejRzeFphUFhYMlh0VVJXdjFORElsbjhNNnNGM2w3V25ZYmNaRzRyZEFKR2lGdzF5ajdXRUZiRl9wUTBmWTBSMzZfTnB3bVI0bld3bQ?oc=5",
-   "source": "ADVFN",
-   "published": "2026-11-26T14:43:02+00:00",
-   "image": "",
-   "sources": 1,
-   "category": "Governo e fiscal",
    "assets": [
     "acoes",
     "ipca"
    ]
   },
   {
-   "title": "Milho recua mais de 1% na B3 com dólar em queda, enquanto preço cai no RS e avança no Paraná",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcmxJY2NwVHV4Z0FuNVNNbXVlRVZnaTI0YlIteEpWMExHSDhWeURsTi1vTm5Ga1loelJqd2dFazU0WmpLMlhoYi15TW84QTFab0t3R2daNzY1eEJ5eENIQV9oTzJMeFZtWXZOZ2tFMUYwMjN4bWt1cnF6UHUxOGhCZGt6ZTFKUEtVTWMyQjRqSGw3cjBfQkRwb05KN0FJSnNRbGxHZm8yMFRSUm1lV2JSWnN2OEdQNkdZbk1CSzBsQm94XzNaT05NcXpscDROYkZlU0Vybk1LSW5BM3lCdFV6UWJmRmNjX2tmNWQwVmd5aWtYSi1ZMnB3?oc=5",
-   "source": "Portal do Agronegócio",
-   "published": "2026-11-26T14:40:00+00:00",
+   "title": "Dia de Sorte: confira o resultado do concurso 1357 sorteado nesta quinta-feira (26)",
+   "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1357-sorteado-nesta-quinta-feira-26/",
+   "source": "InfoMoney",
+   "published": "2026-11-27T00:15:28+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Governo e produtores repudiam crítica de Macron à carne brasileira",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira",
+   "source": "Agência Brasil",
+   "published": "2026-11-27T00:13:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Lotofácil hoje, concurso 3839: confira o resultado sorteado nesta quinta-feira (26)",
+   "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3839-confira-o-resultado-sorteado-nesta-quinta-feira-26/",
+   "source": "InfoMoney",
+   "published": "2026-11-27T00:09:48+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "'Um país caminha bem quando conduzido com seriedade e ética', diz Durigan após anuncio de Trabuco na Fazenda",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/26/um-pais-caminha-bem-quando-conduzido-com-seriedade-e-etica-diz-durigan-apos-anuncio-de-trabuco-na-fazenda.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-27T00:09:17+00:00",
+   "image": "https://s2-g1.glbimg.com/Coc5Yf5xzqhmMPCNVbFNTlxzfso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/J/pzIyopS7ihYJdOtu3jHQ/55629952670-3e733e45fb-k.jpg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Dólar fecha a R$ 5,74 após recuo de 1,25%",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnZZWUU3TUFSaldOZkJSaWs1b1dleURIZEthaUFTcEJtZGtkWDlGOU1Sa21KU3ZjQWk0YVZmUDNlZ3dsM1ZkTkZkRlNYUG1YTXdHOXBOckRwYUpjaXRhUkx4bTFvRjNfclJlOUo0V1dJNnZFLWk4bUNESGZudXhROUx0ZzRmendWaEotQWxJSzdvbmtDM0RaUVVQZ0FHazAxc05mSUZIekstSkNULTJyc1FMZXhDRmJ5eGROVWZLUTM4SGtweWc?oc=5",
+   "source": "GZH",
+   "published": "2026-11-27T00:07:22+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Mega-Sena 3091 acumula e prêmio vai a R$ 82 milhões; confira os números sorteados",
+   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-concurso-3091-confira-os-numeros-sorteados.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-27T00:04:53+00:00",
+   "image": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Mega-Sena hoje, concurso 3091: Confira o resultado sorteado nesta quinta-feira (26)",
+   "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3091-confira-o-resultado-sorteado-nesta-quinta-feira-26/",
+   "source": "InfoMoney",
+   "published": "2026-11-27T00:04:19+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Image-6-e1725979055362.jpg?fit=300%2C225&quality=70&strip=all",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Ibovespa dispara 6,07% aos 176.799,84 pontos com IPCA-15 de 0,22% e sinalização fiscal no Ministério da Fazenda",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeGJoZ3RSZ24zUDVaQnE2TEtUN0p1Rm5CRjI2NGI3WHVRTnAtV1dZY3dlSnJEYkNDUHZ4WkROR01CMUd1emVUYk5ldTEzRHE0M05sT2xwYWwxbVp2NGNMdHl6bE9MUzlyd1pjS2lGRThFb1lkQ29KSmhuVzBEbnZOSThUT0hGT25ybGFabmpEdmhMUE5zdWhRYmNqYVllS3Ytd0t2UmxRdHBZZXpzc0dSTXM5SmlmRGRENzBLanZCOU42cmx6c292OEtxTXZlRTdwUFJV?oc=5",
+   "source": "Brasil Inovador",
+   "published": "2026-11-26T23:58:25+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Para onde vai o dólar com Trabuco?",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlZlQnFKV3haakNzSV85MEhfTExSUzlmNFpaUVplem5qbkhFbjh1MnN5Z1lySGtvVTE1a3p2MXo3U2kwLXlHWk5hcTdwWnlwb21icmU0cVNwWFQ3c05XWkdWQTU0Tzc3THN5SUkteHBfUVJWLV8yYjhoaW92RC04b2w3akdsZkpqazJv?oc=5",
+   "source": "Gazeta do Povo",
+   "published": "2026-11-26T23:52:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "ANCORD apoia escolha de Trabuco para Fazenda: “tem a credibilidade que momento exige”",
+   "link": "https://www.infomoney.com.br/economia/ancord-apoia-escolha-de-trabuco-para-fazenda-tem-a-credibilidade-que-momento-exige/",
+   "source": "InfoMoney",
+   "published": "2026-11-26T23:49:35+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/img20261125134951199.jpg?fit=300%2C185&quality=70&strip=all",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Flávio Bolsonaro crítica escolha de Trabuco para a Fazenda: estelionato eleitoral",
+   "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-critica-escolha-de-trabuco-para-a-fazenda-estelionato-eleitoral/",
+   "source": "InfoMoney",
+   "published": "2026-11-26T23:43:04+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Flavio-Bolsonaro_NYT-e1793910798101.jpg?fit=300%2C204&quality=70&strip=all",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Trabuco muda jogo e BBI eleva Brasil para overweight, vendo alta de 30% para ações",
+   "link": "https://www.infomoney.com.br/mercados/trabuco-muda-jogo-e-bbi-eleva-brasil-para-overweight-vendo-alta-de-30-para-acoes/",
+   "source": "InfoMoney",
+   "published": "2026-11-26T23:32:57+00:00",
+   "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-04-172035.png?fit=300%2C197&quality=70&strip=all",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXlWeDBwcUE5bVZSUE15VnFCM1Y2SlJ1ck85eURiTFdhODBWRnhIdnlLVmREa0ZNSGFHUU92MkFmRHgwWDdpZGZ4YUY4aTYyR3U5T1VNbFdYM1JobUg2WkFhSF9NZG1ZYWtZU19QblFWOWlHOTdWUzBhWWswYXB4RjItS0EyR201RmlMUjhUV2VwWk9CdC1CbHJkRDVGUjI0Ulh2a2lPUlVtS3Uya1dicNIBtgFBVV95cUxPLWgyOURkWlh0amFaX1RLTW1NaHV0WjJmNnJjZTh6ZVpMUmY2TFROeElqN3ExYmNOTTN6dS1RUmFnSVVsQk1lZ192Y1B5bVlGcldWZlpvalgxR1UzSHdydU5oeE5mdzI2YTRvbmFxaGxDT3ZjWFc4N3FFWWJ4XzExTDB2RjdYU1NlNFJoemZsZmZmal9iLTY3MFVwSGVwazFIZXRNMWNDUUdWMDRTZ3VqbjNNWDMtQQ?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-26T23:20:49+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar recua pelo quarto pregão seguido e fecha a R$ 5,74",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU5vSHF5UUJ4bEhnVGMwUC1lVkJvdlg0V3VGWjRpWlRncVZKcjhJSFpURTY0eDlucWV0WTF6VDBoR2FSWTFfeGd4d1Z5U1ZUT1hzVTJuU0U5c213OERBcHZTQjFmZElTWEl2bERsVUZRUS01Vk13UDloZG41Tjh0dEdJVFNQbENuUjFtc1JENk9fc3FxRmhkVDBMRnZHV2ha?oc=5",
+   "source": "Campo Grande News",
+   "published": "2026-11-26T23:20:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa registra o segundo melhor pregão de 2026",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nYjZTck92VlpGb29leGN3VnFSVVVIc0FuVkU2Tng5NDdGekQzOE9MRWV4MnRhSHNfWU53eFlQSEpfWGxmdDg5SmM3THVJWG1XeWxEUVhjVnI?oc=5",
+   "source": "TradeMap",
+   "published": "2026-11-26T23:08:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/26/governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-26T23:05:51+00:00",
+   "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Dólar cai pelo 4º pregão seguido com ‘efeito Trabuco’",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclRCVzdVMVRDTVRTUlB3NzJBZTd3aWxWQWU5NUFGLS1UNW90V2R4aHAtRmxRazg4eDkxMm5XSXRKdzVlN1hsUWFHQmZWWnJYUGdNd0hicHhtNUVGN1Z6RERYeTRKZjdRSXFnaC05cmM4UmN4ejZpYlpsMy1NbTN2T0tVdG5VRThzMy1DVV9n?oc=5",
+   "source": "Jovem Pan",
+   "published": "2026-11-26T22:54:41+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUFqejc5bEFBSGxjZVJsVUxuWjlWUS05QmQ5WnJGQjFVMkhrNGxpTGVRTG8wbWIyZjNwMlltSjlYbWd3d0J2NFdUdWZ3czFqVE1vV2YxeVdUaGRkWjN5eUEzSFY5T09NdmpzMktteEI0RUo1Z1hvQmVBUHFuMldLWXRvNDA3RVRGakZCX1ZQT0V6d0JSLWViOElMbUlNdHhCbFhpS3Fkd2VVUmVFTWR2NVlrY1JadlI1dm95TA?oc=5",
+   "source": "Agência Brasil",
+   "published": "2026-11-26T22:54:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa dispara 10 mil pontos e Banco do Brasil (BBAS3) sobe 12% - Suno",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JeUdyQW56dUNpWFNZU0xISjBzdlk1dF9qRFFCelpKMERWeTM4WWZvYlJNQWtxZm9fcV9lV2dPQkhKY05mYjFDdkcwbTZTMHpheWJZa3BURkp4cU1xbW40VmNDQ25sbWNxUTB4eUVSTGlydFXSAXhBVV95cUxNWnFEUFpJOGFRQm1VZWlZZmJ1R2NMT0hZZnVldmM2VFo4Y3pHR0VTU25DZ0k3UG5WVzRWa3pQbkloREV3cGg5b24wN0RaNl9XSDdGbkd6M2JUYlNNQUIzRW50ZnFneFpCTFhnSTFUbEEtWDhKRVhOSnc?oc=5",
+   "source": "Suno - Investimentos Inteligentes",
+   "published": "2026-11-26T22:31:43+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Brasil rebate Macron após fala sobre carne 'dopada' e acusa França de protecionismo",
+   "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-26T22:20:46+00:00",
+   "image": "https://s2-g1.glbimg.com/3ryF_vUiP_WJ7bV9vYwIGb848s8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/q/YOy60LQYuiO977ZVNrCQ/2026-10-21t094440z-987252174-rc2l7oam9sgm-rtrmadp-3-gulf-france-qatar.jpg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/raio-atinge-plataforma-da-petrobras-200-quilometros-da-costa-do-rio",
+   "source": "Agência Brasil",
+   "published": "2026-11-26T22:17:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/26/quem-e-luiz-trabuco-escolhido-como-ministro-da-fazenda-do-governo-lula-4.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-26T22:11:05+00:00",
+   "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/26/trabuco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-26T22:09:01+00:00",
+   "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": []
+  },
+  {
+   "title": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-26T22:08:24+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa dispara com expectativas sobre o Ministério da Fazenda e desaceleração do IPCA-15",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42LTE4d29yWi03MkpGM2l0ZjNRQURIQ0VSenQxMkd3RExuQUtpZk5BUW01UGc2ZFBLdTJScVRON1FQeExfUksyYlpxcnhOSnN5dzF4eExFcHQ?oc=5",
+   "source": "trademap.com.br",
+   "published": "2026-11-26T21:50:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Juros e inflação",
+   "assets": [
+    "acoes",
+    "ipca"
+   ]
+  },
+  {
+   "title": "Soja recua no Brasil com forte queda do dólar e negócios travados; confira os preços do dia",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWW1qTk93RXgxZ2J1QmJPTWc2MmNfWFc2Um1lSE1VYnlhaHJEN01qU3dsMWd3NGlnMHAzdDZKRURudmUzV0lOOS1Jb0JOT3Y5bHNkWjJUQ2xoUWdDeUQ3eUxSZG50TFkzVmhWSExCMlQxODFhZlNNaWVEU0gyNjJVbjJDNkV0RXV1OVJkZkpka05UZTNKX2RwZFZfTHFWOTctOWU1RUk3LUxDYU1oX2ZUdU1RNnNUYW5heFR5Qy1RbFNoQ3A3cHIyeC1Vd05ram5Ncl9wekk0NndpR3R1V1E3My0wWXhna0Jt?oc=5",
+   "source": "Canal Rural",
+   "published": "2026-11-26T21:43:58+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa sobe mais de 6% com notícia de que Trabuco assumirá Fazenda; ações do Bradesco avançam 11,6%",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORS1nM1FRT0J3eW90ejBYYW9vVTBGeENFei1ZckJSbUxvTERfVUFlaEZBUzU2cjVtcGZBcTQzVkl1dk1Ta1ItTGFJX1h4Z3FiVS1hdGlPX0JFc3h3ZzVYTmZOTWpVaWFNOGEzYjhoMDU0dmhMWjhub2o0eFY2dkRfLVAxOUNmdlc2dzdfaTlxamJUZm9qM2ZKSllnMXJIdzB1b1lISWZVTnpWVFpmSG5BOW9oMzFYNWJydWpjMnJXVm8xM3JvQWhNLU5OWFE3Nnp5V0l4UlNuR0FxTlNNRWpZUW55STBqQUFUNHB2LUtxY0RIQk9ZMzZyY2RPdElNZ9IBjAJBVV95cUxOcUR3SnVoOC14ekpwQnhneHRJMkdnT2JHeGxBSGpXQlBjdHNXMl9DVmo5MmtLaHZjR2lHamx4SF9kX2JObE9CM3BaSzhndERuSVhBZ2hxNkpsbGV3MVlsVGtLTnZmMWV5WVRhQXBDeVFSUnFSaTFNemVsV0lydFQ1b3VWRUpWRUxpTDRfaTJNM2lBcEVvMVpuWXlqSi1CbXRUY1NRTmxXSTRmNlpCbldlMXctZXZ1Z1hGdUR2dnQtTjBFWWVMY29XNlhXQzktaEN4SWRlUnZxMVlFNF92ZXRZb0dkUjNKV0RlSVdEWWdvM0ZFQ3U0Mi1EQzlpVm1sZWN5ZkVaanVkMGtTYUd5?oc=5",
+   "source": "Valor Econômico",
+   "published": "2026-11-26T21:42:43+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Ibovespa salta 6% com especulação sobre Trabuco na Fazenda",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vQlBjYURza3YyNkNrTG9tV2xIU3pvRGpsTzVDdDFSZVh5X0lrRERjd1ZkUU9ETW9HelhDdVZ6dzlQMDE2T09ORGxIX0g5N3VfUlRpSDd2N3ZnenJwb0E1LWl2QnE3S3NuR2VfY2cycnk0NDRUUHQ0?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T21:37:09+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Pix terá novas regras de segurança e melhorias em 2027",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027",
+   "source": "Agência Brasil",
+   "published": "2026-11-26T21:36:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Ibovespa fecha em alta de 6% com notícia de Trabuco mais próximo da Fazenda",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNnI4ekczOGUwSmxpZjZBMWt0MldYMExxVEpvN2dUNjBxaVhHa2ZMNU5KbjBhM1lxZnZWaUFvUElOLWF2M3Zka3plbWtWdVJYVk1mRzJpWTV0TkVsX01BTWRjNGU0ZkN5R2FBU3pxOU5QMHhENUlYb2U1RDQ0LUNqRl9RTm1xM2FBYVRENEJqN3FVTFdmSEtUcUY3Qk9vSGhTMlRXbmJyVEEtRWRwUVNkemw4R1lfcmZsTjFOb09MQdIBxAFBVV95cUxPMXVnZVVLRmJDRXlzSTRtaUNmeElMYVdYUVpTME1kRk5ESWZ0Q01vYzNnMk1pZUVrZGFiTVROQ2NsN28tcXV1LW90NVJLV3VPU3k5a3NNZmNZQVlBTzRxa3pHZlM1MHJic3U2T2c0bWlNa0VjS1lFR00tdGVLX0JHLVpqV2RITmQxTnpyRC1oNWVnSFRYVE15RUNmV2pPWGdaSU9GVDZBZFBRYk1WSEI3dE15TDA3RnNpMnZ0b0RxUlhBSExP?oc=5",
+   "source": "InfoMoney",
+   "published": "2026-11-26T21:32:36+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Empresas",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Receita apreende 58 toneladas de roupas e tênis não declarados",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-apreende-58-toneladas-de-roupas-e-tenis-nao-declarados",
+   "source": "Agência Brasil",
+   "published": "2026-11-26T21:28:00+00:00",
+   "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "sources": 1,
+   "category": "Geral",
+   "assets": []
+  },
+  {
+   "title": "Dólar recua a R$ 5,73, e Ibovespa sobe mais de 3% com expectativa de mudança na Fazenda",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2RWdG43eG9hdmZ0NC1lS2xtTGt5d3VzSDlhT1IyZnV5TEZYQzdRdDUtSVlJVmp4SGlNazQ5YjkydEhqWTBUNWdtSV93QVp1Y2poVjRKZTlteUFqV3M4dDZXR2RXdmFjOFVvaWRPcDhsN0xFVkFvQnBSajJrUnA2MGZydG9aaS0zMG5DV3dNMXZ5cFV5Vk9NckN5QURIYkdfRmVsYWNENm1GaWJ5UEFhR0luY3I5N0h0czl0Wg?oc=5",
+   "source": "Canal MyNews",
+   "published": "2026-11-26T21:15:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Dólar cai pela quarta vez consecutiva e Ibovespa dispara mais de 5%",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaXNDY2NuQ2RvTkdPeE0xVWdvYWtqbVN5c2RiTTNlLUhOdTFEWnROQjROMzNCNlNBTVZ0SDJvWGEweTZsVnY4Rmd2N3RaZ1FKOFFFVzRmWHI2RGk5NmVHZTVNMzBKaTczQUJwX0FwVVo1VGJhVHFSMkhDWl85R0xQTE5Ma2JBckNac0xLamI4THp6U1FKWjhsMlRFbkppd0V0U2JSaVBIenMtOTU3dEVSUWtOUmxQZW8?oc=5",
+   "source": "Agrolink",
+   "published": "2026-11-26T20:57:00+00:00",
+   "image": "",
+   "sources": 1,
+   "category": "Câmbio",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Luiz Trabuco se reúne com Lula em Brasília; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
+   "source": "g1 Economia",
+   "published": "2026-11-26T20:30:47+00:00",
+   "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+   "sources": 1,
+   "category": "Governo e fiscal",
+   "assets": [
+    "acoes"
+   ]
+  },
+  {
+   "title": "Affinity Seguro Viagem oferece dólar a R$ 4,99 e dobra cobertura na Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaHZxLWp5Y0c5Q3F5OU9Hc01QdmwzSWloUTRlV2I1RllpT05ONlZqbW5WUk5HZVNINkU2NGtkTFVxWklKSlhXUlAzOEhFZTNIVzFrYklfZVNrcEpyTnY1M1UwQnVYWEFZYlhpRTd1b0FlTjNTdW1HZTdqUllmdmRGWGFoNjVMQ3lNeU53WFdGU211MG5PS0FoUGtDbnF6Tk82aExhbnotSU1BSHJTR2JvN3hfZk01b0M1TkFGUGRCT3lqOGZLblhwVloteUJpTm5PcDhEcVl1aEhxYmFjVXBn?oc=5",
+   "source": "Mercado e Eventos",
+   "published": "2026-11-26T20:30:08+00:00",
    "image": "",
    "sources": 1,
    "category": "Câmbio",
